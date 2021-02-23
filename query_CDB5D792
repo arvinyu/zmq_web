@@ -1,0 +1,667 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1" />
+<title>国务院新闻办就《海南自由贸易港建设总体方案》有关情况举行发布会_海南自由贸易港招商网</title>
+<meta name="description" content="国务院新闻办公室于2020年6月8日（星期一）上午10时举行新闻发布会，请国家发展改革委副主任林念修，财政部副部长邹加怡，商务部副部长兼国际贸易谈判副代表王受文，中国人民银行副行长、国家外汇管理局局长潘功胜，海关总署副署长李国和中共海南省委书记、海南" />
+<meta name="keywords" content="" />
+<script> 
+   (function() {
+     if (! 
+     /*@cc_on!@*/
+     0) return;
+     var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');
+     var i= e.length;
+     while (i--){
+         document.createElement(e[i])
+     } 
+})() 
+</script>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/common.css"/>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/iconfont.css" />
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/idangerous.swiper.css" />
+<script type="text/javascript" src="template/pc/ycnh/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="template/pc/ycnh/js/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="/template/pc/ycnh/js/main.js"></script> -->
+<script type="text/javascript" src="template/pc/ycnh/js/index_tab.js"></script>
+<script type="text/javascript" src="template/pc/ycnh/js/jquery.superslide.js"></script>
+<script type="text/javascript" src="template/pc/ycnh/js/jzf.js"></script>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/skin20200115.css"/>
+<script type="text/javascript" src="template/pc/ycnh/js/skin20200115.js"></script>
+<script language="javascript" type="text/javascript">
+var baseUrl='/',controller='article';
+function showtime()
+{
+var today,hour,second,minute,year,month,date;
+var strDate ;
+today=new Date();
+var n_day = today.getDay();
+switch (n_day)
+{
+    case 0:{
+      strDate = "星期日"
+    }break;
+    case 1:{
+      strDate = "星期一"
+    }break;
+    case 2:{
+      strDate ="星期二"
+    }break;
+    case 3:{
+      strDate = "星期三"
+    }break;
+    case 4:{
+      strDate = "星期四"
+    }break;
+    case 5:{
+      strDate = "星期五"
+    }break;
+    case 6:{
+      strDate = "星期六"
+    }break;
+    case 7:{
+      strDate = "星期日"
+    }break;
+}
+year = today.getFullYear();
+month = today.getMonth()+1;
+date = today.getDate();
+hour = today.getHours();
+minute =today.getMinutes();
+second = today.getSeconds();
+document.getElementById('time').innerHTML = year + "年" + month + "月" + date + "日" + strDate +" " + hour + ":" + minute + ":" + second; //显示时间
+setTimeout("showtime();", 1000); //设定函数自动执行时间为 1000 ms(1 s)
+}
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".tc").find(".tz_box").hide(0);
+        $(".tc").hover(
+    function () { $(this).css("z-index", "20").find(".tz_box").css("z-index", "50").stop(true, true).animate({ opacity: "show" }); },
+    function () { $(this).css("z-index", "1").find(".tz_box").css("z-index", "1").stop(true, true).animate({ opacity: "hide" }); }
+    );
+
+        $(".search_text").focus(function () {
+
+            $(this).addClass("focus");
+
+        }).blur(function () {
+
+            $(this).removeClass("focus");
+
+        });
+    });
+</script>
+<script type="text/javascript">
+    var ey_1564127251 = {"ClosePage":0,"get_url":"\/index.php?m=api&c=Ajax&a=get_arcrank&aid=344"};
+</script>
+<script type="text/javascript" src="public/static/common/js/view_arcrank_77708EFD.js"></script>
+</head>
+<body>
+<header>
+  <div class="gb_top">
+    <div class="container gb_main">
+      <div class="left">
+        <div class="time_box"> <span id="time"></span> 
+          <script language="javascript"> showtime();</script> 
+        </div>
+        <p>海南自由贸易港招商网欢迎您!</p>
+      </div>
+      <div class="headerRight">
+        <ul class="gb_top_list">
+          <li> <a href="javascript:ClickObject1();">简体版 <i class="iconfont icon-zhcc_xiangxiajiantou"></i></a>
+            <ul class="xl_erweima">
+              <li style="position: absolute; left: 22px;top: -22px; color:#7084a4 "><i
+
+
+
+                                    class="iconfont icon-zhcc_xiangshangjiantou"></i></li>
+              <li> <a href="javascript:ClickObject2();">繁體版</a> </li>
+            </ul>
+          </li>
+          <li style="margin: 0 20px"> <a>手机门户 <i class="iconfont icon-zhcc_xiangxiajiantou"></i></a>
+            <ul class="xl_erweima">
+              <li style="position: absolute; left: 22px;top: -22px; color:#7084a4 "><i
+
+
+
+                                    class="iconfont icon-zhcc_xiangshangjiantou"></i></li>
+              <li>
+                <p>手机站
+                <ul class="xl_erweima1">
+                  <li><img src="uploads/allimg/20200531/1-20053115401D14.png" alt=""></li>
+                </ul>
+                </p>
+              </li>
+              <li>
+                <p>官方微信
+                <ul class="xl_erweima1">
+                  <li><img src="uploads/allimg/20200530/1-2005301A156420.jpg" alt=""></li>
+                </ul>
+                </p>
+              </li>
+              <li>
+                <p>官方微博
+                <ul class="xl_erweima1">
+                  <li><img src="uploads/allimg/20200530/1-200530163303X7.png" alt=""></li>
+                </ul>
+                </p>
+              </li>
+            </ul>
+            </a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="bg_shoot1">
+
+<!--
+
+<div class="dove"> <img src="/template/pc/ycnh/picture/dove.png" > </div>
+
+
+
+<div class="plane"> <img src="/template/pc/ycnh/picture/plane.png" > </div>-->
+
+<div class="bg_shoot2">
+<div class="container">
+<div class="gb_logo_box">
+  <div class="gb_logo" style="float: left;
+
+
+
+    background: url(/uploads/allimg/20200515/1-20051516142HF.png) no-repeat;
+
+
+
+    width: 514px;
+
+
+
+    height: 60px;
+
+
+
+    display: block;"><a href="index.htm"></a></div>
+  <div class="gb_search">     <form method="get" action="query_16ED39ED">
+      <input type="text" class="gb_text_box1"  name="keywords" value="" placeholder="请输入关键字" />
+      <button type="submit" class="gb_btn_ok">搜 索</button>
+      <input type="hidden" name="m" value="home" /><input type="hidden" name="c" value="Search" /><input type="hidden" name="a" value="lists" />    </form>
+     </div>
+</div>
+<nav class="nav">
+<ul class="sy1_ul">
+<div class="sy2_inside">
+<li class="sy1_li" style="width: 160px"><a href="index.htm" class="sy1_tit "><span class="iconfont icon-shouye"
+
+
+
+                                        style="margin-right:4px; "></span>首页</a></li>
+<li class="sy_line"></li>
+<li class="sy1_li navli1"> <a class="sy1_tit " href="query_4EEDFD47" target="_self"><span
+
+
+
+                                        class="iconfont icon-ditu1" style="margin-right:4px; "></span><span class="navspan">走进自由港</span></a>
+  <ul class="sy2_ul">
+    <div class="into_fta">
+      <div class="fta_left"> <img src="uploads/allimg/20200515/1-200515142209164.png">
+        <p>海南省位于中国最南端，简称琼，省会海口市，全省陆地(主要包括海南岛和西沙、中沙、南沙群岛)总面积3.54 万平方公里，海域面积约200万平方公里。海岸线总长1823公里，有大小港湾68个。海南拥有特殊的区位优势，北以琼州海峡与广东省划界，其他三面隔海，与菲律宾、文莱、印度尼西亚和马来西亚为邻，是往来印度洋和太平洋的海上要冲，也是连接东北亚和东南亚的区域中心。目前，海南省是中国最大的经济特区、最大的自由贸易试验区和唯一的中国特色自由贸易港。...<a
+
+
+
+                                                    href="query_4EEDFD47">【更多】</a></p>
+      </div>
+      <div class="fta_right">
+        <ul>
+                    <li><a href="query_7CF41E1B"><img src="uploads/allimg/20200518/1-20051Q01525M5.png">
+            <p>自贸区简介</p>
+            </a></li>
+                    <li><a href="query_0C3F09AA"><img src="uploads/allimg/20200518/1-20051Q02II39.png">
+            <p>海南简介</p>
+            </a></li>
+                    <li><a href="query_573C3920"><img src="uploads/allimg/20200518/1-20051Q02P05Q.png">
+            <p>机构职能与设置</p>
+            </a></li>
+                    <li><a href="query_2E3D7752"><img src="uploads/allimg/20200518/1-20051Q0292T94.png">
+            <p>海南魅力</p>
+            </a></li>
+                  </ul>
+      </div>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli2"> <a class="sy1_tit " href="query_67287652" target="_self"><span class="iconfont icon-xinwen"style="margin-right:4px; "></span><span class="navspan">新闻资讯</span></a>
+  <ul class="sy2_ul">
+    <div class="gb_xl_news">
+      <div class="slideTxtBox">
+        <div class="hd">
+          <ul>
+                        <li><a href="query_861963B9">企业新闻</a></li>
+                        <li><a href="query_0D22324F">行业新闻</a></li>
+                        <li><a href="query_54F714D0">海南新闻</a></li>
+                      </ul>
+        </div>
+        <div class="bd">           <ul class="infoList">
+                        <li><a target="_blank" href="query_23529094"> 【重磅官宣】海南自由贸易港政策干货精选60条！</a><span class="date">06-02</span></li>
+                        <li><a target="_blank" href="query_89214825"> 三部门发文：不再执行20种商品停止减免税规定</a><span class="date">08-14</span></li>
+                        <li><a target="_blank" href="query_BDDBC415"> 海南自贸港船舶登记政策正式落地实施</a><span class="date">06-05</span></li>
+                        <li><a target="_blank" href="query_904BA006"> 重磅！中共中央 国务院印发《海南自由贸易港建设总体方案》</a><span class="date">06-02</span></li>
+                        <li><a target="_blank" href="query_D55EF1E5"> 重点项目马力全开 自贸港建设动能足</a><span class="date">01-11</span></li>
+                        <li><a target="_blank" href="query_4C65C09F"> 海南离岛免税店今年销售额突破300亿元</a><span class="date">12-16</span></li>
+                      </ul>
+                    <ul class="infoList">
+                        <li><a target="_blank" href="query_89A15BDF"> 海南降低药品注册与医疗器械产品注册收费标准 降幅均为30%</a><span class="date">06-05</span></li>
+                        <li><a target="_blank" href="query_45F40C76"> 答记者问 | 制度集成创新、离岛免税、“零关税”清单等全面解</a><span class="date">01-12</span></li>
+                        <li><a target="_blank" href="query_43649109"> 海南自贸港再添一处机场海关</a><span class="date">12-21</span></li>
+                        <li><a target="_blank" href="query_A549256C"> 长征五号遥五运载火箭成功发射探月工程嫦娥五号探测器</a><span class="date">11-24</span></li>
+                        <li><a target="_blank" href="query_021A18BB"> 30条硬核措施！助力海南自贸港金融服务大升级</a><span class="date">09-17</span></li>
+                        <li><a target="_blank" href="query_B23FE538"> 海南分类监管企业信用风险</a><span class="date">08-07</span></li>
+                      </ul>
+                    <ul class="infoList">
+                        <li><a target="_blank" href="query_AA5BE173"> 进口小客车、游艇等交通工具“零关税”，谁能买？怎么买</a><span class="date">12-30</span></li>
+                        <li><a target="_blank" href="query_533B8488"> 最新最全：海南自贸港建设已出台重要政策文件</a><span class="date">11-18</span></li>
+                        <li><a target="_blank" href="query_1E922BC0"> 关于海南自由贸易港原辅料“零关税”政策的通知</a><span class="date">11-13</span></li>
+                        <li><a target="_blank" href="query_9192FC4A"> 中免集团与韩国领先化妆品企业强强联手 深耕海南旅游零售市场</a><span class="date">10-23</span></li>
+                        <li><a target="_blank" href="query_18247797"> 2020中国（海南）国际海洋产业博览会三亚开幕</a><span class="date">08-27</span></li>
+                        <li><a target="_blank" href="query_FF44D4C2"> 海关总署署长倪岳峰：抓紧出台海南自贸港口岸布局方案为全岛封关</a><span class="date">08-12</span></li>
+                      </ul>
+           </div>
+      </div>
+      <script type="text/javascript">jQuery(".slideTxtBox").slide();</script> 
+    </div>
+    <div class="gb_xl_video">
+      <h3><a href="query_67287652" target="_blank">推荐新闻</a></h3>
+      <div class="video_list">
+        <ul>
+                    <li><a target="_blank" href="query_23529094"><span></span><img src="uploads/thumb/576_350/1-2006051GU2R0.png">
+            <p>【重磅官宣】海南自由贸易港政策干货精选60条！</p>
+            </a></li>
+                    <li><a target="_blank" href="query_BDDBC415"><span></span><img src="uploads/thumb/576_350/1-2006051J54aE.png">
+            <p>海南自贸港船舶登记政策正式落地实施</p>
+            </a></li>
+                  </ul>
+      </div>
+      <div class="video_news_list">         <li><a target="_blank" href="query_23529094">【重磅官宣】海南自由贸易港政策干货精选60条！</a><span class="date">（06-02）</span></li>
+                <li><a target="_blank" href="query_904BA006">重磅！中共中央 国务院印发《海南自由贸易港建设总体方案》</a><span class="date">（06-02）</span></li>
+                <li><a target="_blank" href="query_5CEB048D">首个国际会议组织办事机构落户海南</a><span class="date">（05-13）</span></li>
+         </div>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli3" style="display: block"> <a class="sy1_tit " style="display: block"
+
+
+
+                                    href="query_C8715C11" target="_self"><span class="iconfont icon-gongkai" style="margin-right:4px;"></span><span class="navspan">政策法规</span></a>
+  <ul class="sy2_ul" id="xinxigongkai">
+    <div class="info_list hd">
+      <ul>
+                <li><a target="_blank" href="query_21664DA6"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>政策法规</a></li>
+                <li><a target="_blank" href="query_986D1D00"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>扶持政策</a></li>
+                <li><a target="_blank" href="query_876FEC92"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>政策解读</a></li>
+                <li><a target="_blank" href="query_F18C8235"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>方案规划</a></li>
+                <li><a target="_blank" href="query_1E91919F"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>统计数据</a></li>
+              </ul>
+    </div>
+    <div class="info_box bd">
+      <ul>
+        <li>
+          <div class="info_news">
+            <ul>
+                            <li><a target="_blank" href="query_C0B107FC"> 6月7日要览 | 国新办将举行《海南自由贸易港建设总体方案》</a><span class="date">06-09</span></li>
+                            <li><a target="_blank" href="query_45EEBD43"> 海南以“一业一证”改革推动“准入即准营”</a><span class="date">02-02</span></li>
+                            <li><a target="_blank" href="query_BEF7ED9D"> 海南出台十条措施支持洋浦保税港区发展新型离岸国际贸易</a><span class="date">01-26</span></li>
+                            <li><a target="_blank" href="query_33FD1E27"> 我省今年将推广新能源汽车超2.5万辆</a><span class="date">01-25</span></li>
+                            <li><a target="_blank" href="query_3AF6DCE4"> 海南实际使用外资连续三年翻番，特斯拉、哈罗公学等企业名校都来</a><span class="date">01-22</span></li>
+                            <li><a target="_blank" href="query_1936B3AE"> 企业来海南自贸港，“钱”景无限！</a><span class="date">07-24</span></li>
+                            <li><a target="_blank" href="query_A61BC4F9"> 海关总署：《海南自由贸易港口岸布局方案》初步形成</a><span class="date">07-16</span></li>
+                            <li><a target="_blank" href="query_1D1ED46F"> 海口江东新区—优惠政策</a><span class="date">07-10</span></li>
+                            <li><a target="_blank" href="query_8C83DFFE"> 辽宁锦州至海南(洋浦)内外贸同船航线完成首航</a><span class="date">07-08</span></li>
+                          </ul>
+          </div>
+          <div class="s_line"></div>
+          <div class="info_news">
+            <ul>
+                            <li><a target="_blank" href="query_AE8E0112"> 6月17日要览 | 中石化在海南开设能源交易中心</a><span class="date">06-18</span></li>
+                            <li><a target="_blank" href="query_238D1084"> 《海南自由贸易港博鳌乐城国际医疗旅游先行区条例》解读</a><span class="date">06-17</span></li>
+                            <li><a target="_blank" href="query_1EE84C9D"> 三亚中央商务区—优惠政策</a><span class="date">05-19</span></li>
+                            <li><a target="_blank" href="query_69FDA35E"> 海南陵水黎安国际教育创新试验区—优惠政策</a><span class="date">05-19</span></li>
+                            <li><a target="_blank" href="query_9AFAD2D4"> 洋浦将打造数字服务贸易平台</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_0AB5C065"> 环岛旅游公路博鳌一期投入使用</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_60AB5F39"> 海口海关助力海南成品油出口 5月增加出口量7000吨</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_93AC8EAB"> 海南环岛港口航道如何提供航海保障？17条最新举措来了！</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_09C8FC4C"> 房价不超8000元/㎡海南首个安居型商品房实施方案细则出炉</a><span class="date">06-11</span></li>
+                          </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </ul>
+  <script type="text/javascript">jQuery("#xinxigongkai").slide();</script> 
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli4"> <a class="sy1_tit " href="query_EF5300DC" target="_self"> <span class="iconfont icon-rencaidongtaiyufazhan"  style="margin-right:4px; "></span><span class="navspan">重点产业</span> </a>
+  <ul class="sy2_ul">
+    <div class="xl_fta_box">
+      <div class="info_news s_line1">         <h3><span class="jucuo info_zhidu"><span class="iconfont icon-jiangchengcuoshi"></span>旅游业</span><a
+
+
+
+                                                    target="_blank" href="query_DFEE2177">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_3C405512"> 海南国际旅游岛欢乐节三大展览在海口闭幕</a><span class="date">11-23</span></li>
+                    <li><a target="_blank" href="query_D3A378BC"> 旅游业</a><span class="date">05-11</span></li>
+                  </ul>
+      </div>
+      <div class="info_news pdl30">         <h3> <span class="hongli info_zhidu"> <span class="iconfont icon-jinglirun"></span>现代服务业 </span><a target="_blank" href="query_68CA0F54">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_BF3742F8"> 医疗健康产业</a><span class="date">05-18</span></li>
+                    <li><a target="_blank" href="query_283E12B2"> 热带高效农业</a><span class="date">05-18</span></li>
+                  </ul>
+      </div>
+      <div class="info_news mt26">         <h3> <span class="anli info_zhidu"> <span class="iconfont icon-anli"></span>高新技术产业 </span><a target="_blank" href="query_9641A9DB">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_36698A80"> 海南省高新技术产业示范区</a><span class="date">05-18</span></li>
+                  </ul>
+      </div>
+      <div class="info_news pdl30  s_line2 mt26">         <h3> <span class="tuiguang info_zhidu"> <span class="iconfont icon-tuiguang"></span>其他产业 </span> <a target="_blank" href="query_D82302E5">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_106498EB"> 国际总部、区域总部和境外机构</a><span class="date">04-14</span></li>
+                    <li><a target="_blank" href="query_1F6BA855"> 油气产业</a><span class="date">04-14</span></li>
+                  </ul>
+      </div>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli5"> <a class="sy1_tit " href="query_116FFC74" target="_self"> <span class="iconfont icon-UI_icon_zhuantitu" style="margin-right:4px;"></span><span class="navspan">专题专栏</span></a>
+  <ul class="sy2_ul">
+    <div class="zt_left">
+      <div class="zt_title "><i></i>专题</div>
+      <ul>
+                <li>
+          <div class="zt_img"><a target="_blank" href="query_B3E33D0B"><img src="uploads/thumb/576_350/1-200615153639504.png"></a></div>
+          <div class="zt_text"> <a target="_blank" href="query_B3E33D0B" class="text_name">海南自由贸易港首次集中签约一批重点项目</a>
+            <p><a href="query_B3E33D0B">【详情】</a></p>
+          </div>
+        </li>
+                <li>
+          <div class="zt_img"><a target="_blank" href="query_64468D2D"><img src="uploads/thumb/576_350/1-20051Q1351I01.jpeg"></a></div>
+          <div class="zt_text"> <a target="_blank" href="query_64468D2D" class="text_name">关于电影等行业税费支持政策的公告</a>
+            <p><a href="query_64468D2D">【详情】</a></p>
+          </div>
+        </li>
+              </ul>
+    </div>
+    <div class="zt_right">
+      <div class="zt_title"><i></i>专栏</div>
+      <ul>
+                <li><a target="_blank" href="query_883D841C"><i></i>
+          <p> 海南自贸港创业大赛 海口赛区选拔赛启动</p>
+          </a></li>
+                <li><a target="_blank" href="query_DD11594C"><i></i>
+          <p> 2019第十届环海南岛国际大帆船赛圆满落幕</p>
+          </a></li>
+              </ul>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli6" >
+<a class="sy1_tit " href="query_AA8CA1A9" target="_self"> <span class="fsz22 iconfont icon-zhitongcheguanjianci" style="margin-right:4px; "></span><span class="navspan">园区载体</span> </a>
+<ul class="sy2_ul">
+  <div class="gb_xl_news">
+  <div class="slideTxtBox">
+  <div class="bd">
+  <ul class="infoList">
+        <li><a target="_blank" href="query_D63C738E"> 博鳌乐城国际医疗旅游先行示范区</a><span class="date">05-18</span></li>
+        <li><a target="_blank" href="query_09F2151B"> 洋浦经济开发区</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_7A932F8A"> 文昌国际航天城</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_ED9A001C"> 海南陵水黎安国际教育试验区</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_64A150B6"> 三亚中央商务区</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_139C6140"> 三亚崖州湾科技城</a><span class="date">05-13</span></li>
+        </div>
+    </div>
+    </div>
+    <div class="gb_xl_video">
+      <div class="fw_list"> <img src="" /> </div>
+    </div>
+  </ul>
+  </li>
+  <li class="sy_line"></li>
+    </div>
+</ul>
+</nav>
+
+<div class="main">
+  <div class="address">
+    <div class="add_box">您所在的位置： <a href='index.htm' class=''>首页</a> &gt; <a href='query_C8715C11' class=''>政策法规</a> &gt; <a href='query_F18C8235'>方案规划</a></div>
+  </div>
+  <div class="left">
+    <div id="nav">
+      <h1>政策法规</h1>
+      <ul>
+                <li><a href="query_21664DA6" title="政策法规">政策法规</a></li>
+                <li><a href="query_986D1D00" title="扶持政策">扶持政策</a></li>
+                <li><a href="query_876FEC92" title="政策解读">政策解读</a></li>
+                <li><a href="query_F18C8235" title="方案规划">方案规划</a></li>
+                <li><a href="query_1E91919F" title="统计数据">统计数据</a></li>
+              </ul>
+    </div>
+    <div class="hot_list" id="smartFloat_tags">
+      <h3 class="title_name">热门文章</h3>
+      <ul>
+                <li><span class="number front">1</span><a title="海南博鳌乐城先行区特许药械品种及可用肿瘤新药、罕见病药双双破" style="width:240px;" href="query_63D71B30">海南博鳌乐城先行区特许药械品种及可用肿瘤新药、罕见病药双双破</a></li>
+                <li><span class="number front">2</span><a title="国务院新闻办就《海南自由贸易港建设总体方案》有关情况举行发布" style="width:240px;" href="query_CDB5D792">国务院新闻办就《海南自由贸易港建设总体方案》有关情况举行发布</a></li>
+                <li><span class="number front">3</span><a title="房价不超8000元/㎡海南首个安居型商品房实施方案细则出炉" style="width:240px;" href="query_09C8FC4C">房价不超8000元/㎡海南首个安居型商品房实施方案细则出炉</a></li>
+                <li><span class="number ">4</span><a title="辽宁锦州至海南(洋浦)内外贸同船航线完成首航" style="width:240px;" href="query_8C83DFFE">辽宁锦州至海南(洋浦)内外贸同船航线完成首航</a></li>
+                <li><span class="number ">5</span><a title="洋浦将打造数字服务贸易平台" style="width:240px;" href="query_9AFAD2D4">洋浦将打造数字服务贸易平台</a></li>
+                <li><span class="number ">6</span><a title="海口江东新区迈雅河区域生态修复项目示范区完工" style="width:240px;" href="query_90D24AC2">海口江东新区迈雅河区域生态修复项目示范区完工</a></li>
+                <li><span class="number ">7</span><a title="国新办海南自由贸易港新闻发布会，你关心的都在这！" style="width:240px;" href="query_67D16331">国新办海南自由贸易港新闻发布会，你关心的都在这！</a></li>
+                <li><span class="number ">8</span><a title="海南设立10亿元基金打造区块链产业新生态" style="width:240px;" href="query_C6227F0F">海南设立10亿元基金打造区块链产业新生态</a></li>
+                <li><span class="number ">9</span><a title="人民日报海外版：海南自贸港未来可期" style="width:240px;" href="query_C8073C27">人民日报海外版：海南自贸港未来可期</a></li>
+                <li><span class="number ">10</span><a title="海南实际使用外资连续三年翻番，特斯拉、哈罗公学等企业名校都来" style="width:240px;" href="query_3AF6DCE4">海南实际使用外资连续三年翻番，特斯拉、哈罗公学等企业名校都来</a></li>
+              </ul>
+    </div>
+  </div>
+  <div class="right">
+    <div class="right_title"><span>方案规划 </span></div>
+    <div class="content_box">
+      <h1>国务院新闻办就《海南自由贸易港建设总体方案》有关情况举行发布会</h1>  
+      <div class="wd_info"><span>2020-06-09 10:44:18</span> 作者：<span>admin</span>  阅读次数：<span class="blue"><script type="text/javascript">
+    function tag_arcclick(aid)
+    {
+        // 步骤一:创建异步对象
+        var ajax = new XMLHttpRequest();
+        // 步骤二:设置请求的url参数,参数一是请求的类型,参数二是请求的url,可以带参数,动态的传递参数starName到服务端
+        ajax.open("get", "/index.php?m=api&c=Ajax&a=arcclick&aid="+aid+"&type=view", true);
+        // 给头部添加ajax信息
+        ajax.setRequestHeader("X-Requested-With","XMLHttpRequest");
+        // 如果需要像 HTML 表单那样 POST 数据，请使用 setRequestHeader() 来添加 HTTP 头。然后在 send() 方法中规定您希望发送的数据：
+        ajax.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+        // 步骤三:发送请求
+        ajax.send('_ajax=1');
+        // 步骤四:注册事件 onreadystatechange 状态改变就会调用
+        ajax.onreadystatechange = function () {
+            // 步骤五 如果能够进到这个判断 说明 数据 完美的回来了,并且请求的页面是存在的
+            if (ajax.readyState==4 && ajax.status==200) {
+        　　　　document.getElementById("eyou_arcclick_"+aid).innerHTML = ajax.responseText;
+          　}
+        } 
+    }
+</script><i id="eyou_arcclick_344" class="eyou_arcclick" style="font-style:normal"></i> 
+<script type="text/javascript">tag_arcclick(344);</script></span>次</div>
+      <div class="wd_jj">摘要：<span>国务院新闻办公室于2020年6月8日（星期一）上午10时举行新闻发布会，请国家发展改革委副主任林念修，财政部副部长邹加怡，商务部副部长兼国际贸易谈判副代表王受文，中国人民银行副行长、国家外汇管理局局长...</span></div>
+      <div class="news_vdcon">
+        
+        
+         <p style="text-indent: 2em;"><span style="color: rgb(128, 128, 128); font-family: 楷体, 楷体_GB2312; font-weight: 700; text-indent: 32px; background-color: rgb(255, 255, 255);">国务院新闻办公室于2020年6月8日（星期一）上午10时举行新闻发布会，请国家发展改革委副主任林念修，财政部副部长邹加怡，商务部副部长兼国际贸易谈判副代表王受文，中国人民银行副行长、国家外汇管理局局长潘功胜，海关总署副署长李国和中共海南省委书记、海南省人大常委会主任刘赐贵，中共海南省委副书记、海南省人民政府省长沈晓明介绍《海南自由贸易港建设总体方案》有关情况，并答记者问。</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">国务院新闻办新闻发言人 胡凯红：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">女士们、先生们，大家上午好。欢迎出席国务院新闻办今天举办的新闻发布会。6月1日，《海南自由贸易港建设总体方案》正式公布，这个方案大家都非常关注，也非常重要。今天我们非常高兴请来了中共海南省委书记、海南省人大常委会主任刘赐贵先生，中共海南省委副书记、海南省人民政府省长沈晓明先生，国家发展改革委副主任林念修先生，财政部副部长邹加怡女士，商务部副部长兼国际贸易谈判副代表王受文先生，中国人民银行副行长、国家外汇管理局局长潘功胜先生，海关总署副署长李国先生，请他们向大家介绍《总体方案》的有关情况，并回答大家关心的问题。首先有请国家发改委的副主任林念修先生作介绍。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">国家发展改革委副主任 林念修：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">女士们、先生们，媒体朋友们，大家上午好。在海南建设自由贸易港是习近平总书记亲自谋划、亲自部署、亲自推动的改革开放重大举措，是党中央着眼国内国际两个大局，深入研究、统筹考虑、科学谋划作出的战略决策。近日，在海南自由贸易港建设开局的关键时刻，习近平总书记作出了重要指示，为建设海南自由贸易港指明了方向。6月1日，大家都知道党中央、国务院发布了《海南自由贸易港建设总体方案》，下面我结合学习习近平总书记的重要指示精神，把《总体方案》的主要内容向大家做一个简要的介绍。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">总的来看，《总体方案》始终把握三个关键点：第一，坚持党的集中统一领导，坚持中国特色社会主义制度；第二，对接国际高水平经贸规则，把制度集成创新摆在重要的位置上，促进生产要素自由便利流动；第三，成熟一项推动一项，行稳致远，久久为功。简单的概括就是把准方向、集成创新、自由便利、步步为营。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">《总体方案》的主要内容可以概括为“6+1+4”。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">“6”就是贸易自由便利、投资自由便利、跨境资金流动自由便利、人员进出自由便利、运输来往自由便利、数据安全有序流动。围绕这6个方面，《总体方案》作出了一系列制度安排。我这里给大家简要做一个介绍。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">贸易自由便利方面，对货物贸易，简单的说就是“零关税”，就是实行以“零关税”为基本特征的自由化便利化制度安排。对服务贸易，简单说就是“既准入又准营”，将实行以“既准入又准营”为基本特征的自由化便利化一系列政策举措。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">投资自由便利方面，一句话，“非禁即入”，就是大幅放宽海南自由贸易市场准入，实行“非禁即入”制，进一步激发各类市场主体的活力。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">跨境资金流动自由便利方面，强调金融服务实体经济，围绕贸易投资自由化便利化，分阶段开放资本项目，有序推进海南自由贸易港与境外资金自由便利流动。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">人员进出自由便利方面，我们针对高端产业人才，实行更加开放的人才和停居留政策，目的是打造人才聚集的高地。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">关于运输往来自由便利方面，将实行高度自由便利开放的运输政策，推动建设西部陆海新通道国际航运枢纽和航空枢纽。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">数据安全有序流动方面，要在确保数据流动安全可控的前提下，扩大数据领域开放，培育发展数字经济。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">“1”就是构建现代产业体系。特别强调要突出海南的优势和特色，大力发展旅游业、现代服务业和高新技术产业，进一步夯实实体经济的基础，增强经济创新力和竞争力。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">“4”就是要加强税收、社会治理、法治、风险防控等四个方面的制度建设。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">一是按照零关税、低税率、简税制、强法治、分阶段的原则，逐步建立与高水平自由贸易港相适应的税收制度。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">二是着力推进政府机构改革和政府职能转变，构建系统完备、科学规范、运行有效的自由贸易港治理体系。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">三是建立以海南自由贸易港法为基础，以地方性法规和商事纠纷解决机制为重要组成的自由贸易港法治体系，营造国际一流的自由贸易港法治环境。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">四是制定实施有效措施，有针对性防范化解贸易、投资、金融、公共卫生、生态等领域的重大风险，牢牢守住不发生系统性风险的底线。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">《总体方案》的推进实施可以分为打基础和全面推进两个阶段。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第一个阶段，从现在起到2025年以前主要是打基础、做准备。这一阶段的目标任务是，突出贸易投资自由化便利化，在有效监管的基础上，有序推进开放进程，推动各类要素便捷高效流动，形成早期收获，适时启动全岛封关运作。围绕这一目标任务，我们将抓紧开展工作，争取用3年左右的时间能够取得突破性的进展，为全面封关奠定一个良好的基础。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第二个阶段，2035年以前，主要是全面推进自由贸易港政策落地见效。这一阶段的目标任务是，进一步优化完善开放政策和相关制度安排，实现贸易自由便利、投资自由便利、跨境资金流动自由便利、人员进出自由便利、运输来往自由便利和数据安全有序流动，基本形成完备的法律法规体系、现代产业体系和现代化社会治理体系，打造我国开放型经济新高地。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">下一步，我们将会同海南省和有关部门，以习近平总书记的重要指示精神为根本遵循，按照《总体方案》的要求，突出重点环节和关键领域，坚持“管得住”才能“放得开”的原则，把握好分步骤分阶段实施的推进节奏，只争朝夕，扎实稳妥，推动各项政策措施尽快落地见效，高质量高标准的建设海南自由贸易港。我就简单介绍这么多，谢谢大家。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">胡凯红：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢林主任，下面有请刘书记做介绍。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中共海南省委书记、海南省人大常委会主任 刘赐贵：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">女士们、先生们，朋友们，大家上午好，首先感谢各位对海南全面深化改革开放的关注和支持，借此机会，向全球各方面的投资者、社会各界对海南的关心支持表示诚挚的谢意。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在海南设立自由贸易港是习近平总书记亲自谋划、亲自部署、亲自推动的重大的国家战略，是彰显“中国开放的大门不会关闭、只会越开越大”的重大举措。海南是中国最南部的一个省份，1988年建省办经济特区，一直以来得到了党中央、全国人民的支持，特别是2018年4月13日，习近平总书记在海南建省办经济特区30周年纪念大会上发表了重要讲话，确定海南全岛建设自贸区和中国特色自贸港，并且把海南的定位确定为全面深化改革开放的试验区、国家生态文明建设示范区、国际旅游消费中心、国家重大战略服务保障区。我们在这两年来坚决按照习近平总书记和党中央的一系列重要部署，高标准推进自贸区建设，所以这两年实际上自贸区为自贸港的产生确立奠定了良好的基础。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们坚持高标准高质量建设全岛自由贸易试验区，确定了18个先导性项目，对中央“1+N”政策体系，结合海南的实际去细化、推进落实，特别是这两年来，我们在光网、电网、气网、路网、水网这“五网”基础设施建设方面，为全岛同城化打下了很好的基础。特别是在总书记“4.13”重要讲话后，我们召开了全会来贯彻，全会作出了一个很重要的决定，就是“百万人才进海南”。同时，我们在谋划推动智慧海南建设，海南的发展要高标准，从高标准的要求，海南建设必须要高起点。在国家发改委等部门的支持下，智慧海南方案已经经过中央批准。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们在这两年中还特别注重制度创新，先后有77项制度创新发布，许多是全国首创的。我们对营商环境制定69条措施，这69条措施也是对标世界银行的标准来制定的。现在海南的营商环境在极简审批、一网通办、一枚印章管审批、单一窗口这些方面都取得了很明显的成效。与此同时，我们严格控制房地产，海南的房地产不是外面想要多少就建多少，成为房地产的加工厂，我们土地是有限的，而且历史上也有过教训，所以在构建现代化产业体系方面不能是单一的。这两年，我们大力吸引外资，大力吸引市场主体，两年来新增了44.4万户的市场主体，比2018年“4.13”讲话之前增长了66%。新开工的1亿元以上的项目有572个，总投资5828亿元。其中，10亿元以上的有125个，总投资4431亿元。总投资在100亿元以上的项目有5个。我们在发展的同时十分注重生态环境保护，也一直处在全国领先的地位。为了实现“管得住”才能“放得开”这一目标，我们建立了完整的社会管理体系，自贸港在零关税后全岛封关，最重要的是要防止走私，因此我们这两年实际上已经在进行防止走私，构建近岸、近海、岸线和岛内三道防控圈。自贸港建设总体方案发布后，我们过两天就要召开省委七届八次全会，落实好总书记的重要批示和中央发布的《总体方案》。主要是海南怎么贯彻，怎么贯彻到位，怎么样干一件成一件，这里有几个重点：</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">一是始终坚持党对自贸港建设的领导，这个领导是全面的。牢牢把握好自贸港建设的正确方向，以习近平新时代中国特色社会主义思想为指导，进一步增强“四个意识”，坚定“四个自信”，做到“两个维护，坚决保证自由贸易港的建设始终在党中央领导下统筹推进，在推进海南全面深化改革领导小组的直接领导下，我们把方案任务进行分解、制定时间表、路线图，层层压实责任，在全省开展“我为推动海南自由贸易港建设做贡献”活动。敢闯、敢试、敢为人先、埋头苦干，这是特区的精神，我们会以“一天当三天用”的干劲确保各项政策不折不扣的落地见效。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">二是坚持高水平的开放政策。吸引全世界的投资者到海南投资兴业，我们会更加注重外资的引进，更加注重境外人才的引进，全力落实好自由贸易港的各项政策。我们将着重把制度集成创新摆在十分突出的位置，高标准高质量的建设海南自由贸易港，必须在制度的基层创新解放思想，去创新、去改革，当然我们会成熟一项推出一项，行稳致远，久久为功，因为整个自由贸易港的政策是一个完整的、科学的、高效的体系，我们会围绕着贸易自由化便利化、投资自由化便利化，从制度上不是单一的，而是集成的去设置整个制度来适应它。这里面包括管理体制、法律法规体系，特别是把握好一线放开和二线管住的关系，促进生产要素的自由流动，防范和化解各类风险，来实现高水平的开放形态，使海南自贸港成为中国改革开放的新高地。我们将始终把人民的利益放在至高无上的地位，建设自贸港不仅让940万海南人民有幸福感、获得感，也要让14亿人民有获得感。所以我们在城乡体系建设方面，特别是今年全面建成小康社会，海南一定做到一个不落下。在这个过程，我们要让投资者深切地感到，在海南这块乐土上来共享海南自由贸易港的红利。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">三是我们将始终坚持底线思维，扎实做好各类风险的防控。深刻吸取海南历史上曾经有过的大起大落教训，牢牢把握“管得住才能放得开”这一前提，强化了风险防范化解的意识。科学预判、精准应对、妥善管控，着力防范和化解贸易投资、人员进出、资金流动、生态和公共卫生等领域的风险，确保自贸港建设行稳致远。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">朋友们，海南自由贸易港郑重发出邀请：欢迎全世界投资者和各类人才到海南投资兴业，积极参与海南自由贸易港建设，共享中国发展机遇、共享中国改革开放成果！谢谢大家。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">胡凯红：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢刘书记。下面请记者提问，提问前请通报所在媒体机构。<br/></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中央广播电视总台央视记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">俗话说，21世纪最缺的是人才，刚才也听您谈了很多对于人才的需求，还有渴望。在海南自由贸易港建设过程中，对人才的需求是非常迫切的。请问在接下来一个阶段，海南将采取哪些具体举措来吸引人才参与建设？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">刘赐贵：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。海南虽然有改革开放30多年的历史，也曾经有过10万人才渡过琼州海峡到海南创业，但毕竟是在1988年，从广东一个行政区分出来设立的一个省。所以，它的人才基础还是薄弱的，更是一个发展的瓶颈。我刚才介绍当中讲到了我们制定了到2025年“百万人才进海南”的行动计划，目的是要大力吸引人才。我要提到的是，中央组织部和国家各个部门对海南的大力支持，这两年通过选调、调配，从省级班子、厅级班子到县市的班子，大概有200名左右的干部到海南去任职或者挂职，挂职的时间不是半年、一年，而是两到三年。这也是中央各个部门坚决落实习近平总书记“4·13”重要讲话的具体体现。总书记当时就指出，海南全面深化改革开放是国家的一项重大战略，必须举全国之力、聚四方人才。我首先还是要感谢中央各个部门对海南的支持。我们落实总书记重要讲话，确定2025年“百万人才进海南”的计划，省委成立了人才工作委员会，我亲自任人才委员会主任，定期研究，出台了一系列政策。这些政策围绕人才如何发挥才干，在住房、子女就学等方面提供各方面的便利。这两年来，已经超过10万人到海南就业创业。这和当时改革开放时10万人才渡琼州海峡不同的特点是，那时候的博士是在大街上擦皮鞋，因为他没有事干。我们现在讲的是10万多人到海南，都是有就业岗位的。最近我们推出了4万多个向全球招聘的岗位，年底之前还会再推出，就有几十万海内外的人才踊跃报名。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">解决人才问题，首先是人才愿意来，愿意来的前提是解决他们的后顾之忧，有用武之地，海南虽然有良好的生态环境、好的空气、好的水、好的食品，但是人才来还是要着重于能够就业创业，这是最重要的。我刚才讲，吸引人才来是有具体岗位需求的，是有活儿干的。我们解决他们子女就学，这两年我们在全球、全国引进了80多家最好的学校，从幼儿园、小学到中学，因为来创业的人他们的后顾之忧就是孩子有没有好的学校上学。二是有没有好的健康保障。我们在全球已经引进了50多家各类好的医疗机构，所以我觉得现在人才应该会愿意来。第二个问题是人才来了能够有事干、留得住。这几年，我们招聘的人才流动性很少，说明“留得住”。因为海南的政策、海南良好的生态环境吸引了众多的人才。加上自贸港政策公布以后，独特的政策优势一定会吸引更多的人才来海南就业。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我这里要特别讲的是，我们在旅游业、现代服务业和高新技术产业这三个领域着重发展，现在除了个别的，还有整体团队、总部经济和一些高端企业，一个企业可能带来了几百人、几千人的人才。还有市场主体，我在发布时讲到我们增加了44.4万户，增长了66%，实际上每年都以30%以上的速度增长。海南现在市场主体超过100万户。900多万人口，超过100万户的市场主体，这只是到目前。我想，独特的政策优势一定会吸引更多的市场主体到海南来创业。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我这里还要讲一下，我们不是光吸引人才，还注重本地人才作用的发挥，因为他们毕竟是海南目前的主力。所以这两年来，省委一方面抓引进人才，一方面抓本地人才作用的发挥，主要有几方面：一是送出去培训。我们到国外培训的、中央机关培训的现在每年都安排几百人。二是加强本土培训。海南自贸港是全岛自贸港，海南主要的人口还是在农村，主要的面积也是在农村，农村的状况如何决定着海南自贸港是否成功。我们对包括农民在内的居民都很好的进行培训，提升他们的素质，对乡村教师、乡村医生在职称、工资待遇、住房等方面有一套良好的优惠政策，使他们愿意留在农村。因为今后海南自由贸易港是全岛同城化，所以必须提升乡村人才的素质。前不久，我们还表彰了海南的名家、英才、工匠、乡土人才，激励本土人才进一步发挥作用。这两方面，我们今后一直会坚持下去。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中新社记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们知道，高质量高标准建设海南自由贸易港离不开大批优质市场主体的积极参与，请问企业在海南能够直接享受到的自贸港核心政策有哪些？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中共海南省委副书记、海南省人民政府省长 沈晓明：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我记得两年以前习近平总书记“4·13”重要讲话中有这么一段话，“欢迎全世界投资者到海南投资兴业，积极参与海南自由贸易港建设，共享中国发展机遇，共享中国改革成果”。自贸港建设需要市场主体，市场主体需要了解我们有什么政策，6月1日《总体方案》一公布，我们就从《总体方案》当中提取了60条优惠政策的干货，通过微信公众号发布。结果40分钟后，阅读量达到10万+，两个半小时后阅读量超过50万，说明市场主体对海南自贸港的政策非常关注。由于政策很多，我在这里选四方面的政策作简单的解读。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第一，关于投资自由便利。海南自由贸易港实行“非禁即入”，除非有强制性的标准和法律的禁止，原则上政府取消许可和审批，对企业实行备案制、承诺制，承诺符合条件就可以开展业务。政府的备案受理机构通过事中事后监管来履行监管义务，对于外商投资实行准入前国民待遇加自贸港专用的负面清单管理制度。在自贸区基础上进一步减少限制和禁止的条款。对于自贸港内注册的境内企业，我们将支持他们通过境外发行股票的方式进行融资。另外，如果他从事的是旅游业、现代服务业、高新技术产业等我们鼓励的领域，他在境外直接投资的收益可以免征企业所得税。因此，在投资自由便利方面，我们的政策是一套非常完备的体系。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第二，关于货物贸易零关税。全岛封关以后，除了极少数产品外，其他都没有进口关税了。但是在全岛封关之前，我们也设定了四类物品，通过清单管理免关税。一是生产资料，二是原辅料，三是交通工具，四是岛内居民的消费品。我大致算了一下，进口游艇税收的成本大概能够降低38%，本来1000万进口一条游艇，你需要交380万的税，但是你如果在海南买一条1000万的进口游艇，就不需要交380万的税，比其他地方买游艇省了380万。另外，进口娱乐设备税收大概能省20%。就在前几天，我去海口的一家生物制药研发服务外包公司调研，这个公司的负责人告诉我，他自己算过帐，他刚刚要买3个亿的研发设备，在零关税之前需要3个亿，在零关税之后只要2个亿，省了1/3的钱。对他来讲，他觉得在海南建研发中心成本更低，花同样的钱能够买更多的设备、雇更多的人。另外，洋浦保税港区等特殊区域将率先实行原产地规则。什么叫原产地规则？就是你生产用的原材料当中有进口物件的，如果能够让他在特殊区域里面增值超过30%，生产出来的产品再进入中国内地市场就不需要再交关税。我给大家举一个冻品的例子，我们国家每年进口牛肉、羊肉、猪肉冻品大概是600多万吨，2019年冻品进口的量比2018年增长45%，以非常高的速度每年在增长。举牛肉的例子，整头牛或者半头牛普通进口关税70%，最惠国的进口关税25%，如果整头牛、半头牛进口到洋浦港，再通过初加工，也就是分割成大腿肉、牛筋，很容易增值30%。如果增值30%，这个牛肉再经过中国内地市场就省去了70%或者是25%的关税。因此，企业的利润空间是十分巨大的，老百姓就可以吃到更加便宜的进口牛肉。所以，原产地规则的含金量是相当高的。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第三，关于所得税的税率。从现在开始到2025年，我们对符合条件的企业和个人减免所得税。比如，对注册在海南自贸港并实质运行的鼓励类的产业企业，我们减按15%征收企业所得税。比如，对在海南自贸港工作的高端和紧缺人才，如果他们在海南岛内待满183天，他们个人所得税实际税负超过15%的那部分将免征。因此，对于高端的紧缺人才在个税方面的吸引力也是十分大的。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第四，关于服务业开放。我们将大幅减少市场准入，在旅游、现代服务业和高新技术三大产业，特别是种业、航运、电信、商务服务、金融、医疗、教育、文化、体育等重点领域，加大服务业的开放力度。比如，基础电信。到目前为止我们国家的政策是，基础电信要求有中方控股，在这一版的自贸港《总体方案》当中第一次提到有序开放基础电信。再比如，我们支持境外证券、期货、基金经营机构设立独资或者是合资的金融机构。再比如，我们允许境外理工农医类的世界高校或者是职业院校在海南能够独立办学，这些开放的政策之前都是没有过的。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">关于政策的具体内容很多，这段时间我们会陆续以不同的形式向社会进行解读，给大家答疑，大家有什么问题可以看我们海南的招商引才网，也可以把你的问题留给我们，我们会及时答复你们。最近，海南还将组织各种形式的招商说明会，欢迎各位媒体记者踊跃参加。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">日本经济新闻记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">这次规划的目标是让海南成为未来国际贸易和金融的枢纽，这是不是意味着未来的海南会替代现在香港的一部分功能和地位？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">林念修：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。众所周知，香港、新加坡和迪拜是当前国际上高水平自由贸易港的典型代表，他们的建设模式、政策制度都各有特点。大家都知道，香港是重要的国际金融中心、航运中心和贸易中心，被众多的国际机构评选为全球最自由的经济体和最具竞争力的地区之一。特别是香港回归祖国以后，在“一国两制”下，继续保持繁荣稳定，并且深度融入到中华民族伟大复兴的壮阔征程中。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在海南建设自由贸易港，我们既要学习借鉴国际上知名的自由贸易港的先进经验，对接国际高标准的经贸规则，探索具有国际竞争力的开放制度体系。同时，我们更要充分发挥海南自然资源丰富、地理位置独特以及背靠超大规模国内市场和腹地经济的优势，重点突出贸易和投资自由便利，聚焦发展旅游业、现代服务业和高新技术产业，加快培育具有海南特色的合作竞争新优势，为全球自由贸易港发展注入新的活力。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">从这个意义来讲，海南自由贸易港与香港的定位不同，重点发展产业也不同，应该说互补大于竞争，不会对香港造成冲击。下一步，在海南建设自由贸易港进程中，我们将进一步加强与粤港澳大湾区的联动发展，积极开展务实有效的合作，保障香港的长治久安和长期繁荣稳定，确保“一国两制”实践行稳致远。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">海南广播电视总台全媒体记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">海南自贸港建设总体方案提出构建海南自贸港政策和制度体系的设计，要以贸易的自由化和便利化为重点，请问海南自贸港建设过程中，贸易自由化便利化在政策制度的设计上有什么样的考虑？又有什么样的特点？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">商务部副部长兼国际贸易谈判副代表 王受文：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。贸易自由化便利化是全世界先进的自由贸易港的一个基本的、普遍的特征。在今天，很多区域的自由贸易协定、双边的自由贸易协定中都强调贸易的自由化和便利化，当然，贸易的自由化便利化也是我们海南自由贸易港制度设计的一个非常重要的内容，可以说是一个重点。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在制度设计过程中，我们强调要突出创新，要借鉴国际经验，要体现中国特色，符合海南的定位。贸易自由化便利化也要符合我国的全面深化改革、扩大开放的整体方向。贸易自由化便利化分为两个方面：一是货物贸易的自由化便利化。二是服务贸易的自由化便利化。货物贸易自由化便利化有几个特点：一，要实现“零关税”。也就是说，海南自由贸易港要制定一个征税商品目录，在这个商品目录之外的产品进入自由贸易港，实行“零关税”。二，瞄准“零壁垒”。除关税措施外，在非关税措施如许可证、配额等方面，将制定海南自由贸易港禁止、限制进出口货物、物品清单，清单以外的货物和物品，自由进出自贸港。三，推进便利化。货物进入海南自由贸易港，可以通过单一的国际贸易窗口，十分便利的进入。海关监管要体现高效便捷，货物进入自贸港是非常便利的。四，在货物贸易自由便利的情况下，我们要确保风险能够得到防范和控制，要高标准的建设口岸的基础设施，要实施智能的、精准的监管。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在服务贸易方面，服务贸易有四种形态。其中跨境交付、境外消费和自然人移动叫做跨境服务贸易。对跨境服务贸易的这三种形态，我们要制定跨境服务贸易负面清单，在这个负面清单之外，这三种形态的服务贸易将是自由的，将准入。服务贸易的另外一种形态叫做商业存在，就是在当地提供服务。进入要准营，准许经营就涉及到资格标准，一些技术要求有透明度、监管方面的要求，在这方面我们要做进一步的规范，使之建立商业存在也可自由便利。在服务贸易方面，我们体现既准入又准营。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">根据海南自由贸易港建设的总体方案，我们分为两个阶段，第一个阶段，2025年之前是第一步，主要要做三方面的工作，体现早期收获。第一方面的工作，我们要在洋浦保税港区率先实行一线放开、二线管住的政策措施。第二方面，要建立“一负三正”的清单。刚刚刘书记和沈省长也提到了，我们在全岛封关运作之前通过的“一负三正”，负面清单就是对企业进口自用设备零关税负面清单管理，负面清单之外商品的全部免税。要制定三个正面清单，就是对进口运营用的交通工具，对进口用于生产自用或者两头在外模式进行生产加工活动所消耗的原辅料，以及岛内居民消费的进境商品。三个正面清单之内的全部免税，所以这是要做的第二个内容，作为早期收获。第三方面，我们今年年内要制定跨境服务贸易的负面清单。这个跨境服务贸易负面清单就是我刚刚提到的，在服务贸易的三种模式，对这三种模式项下的服务贸易，如果有限制就纳入到这个负面清单，如果没有限制的，负面清单之外开放，这将是海南自由贸易港制度集成创新的一个亮点，它将是我们中国跨境服务贸易的第一张负面清单，值得期待。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中国财经报记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我的问题是提给邹部长，2025年封关运作前，海南自由贸易港建设实行“零关税”政策，形成早期收获。请问财政部是如何考虑的？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">财政部副部长 邹加怡：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。刚才几位发言的同事们都提到了“零关税”政策，“零关税”是海南自由贸易港的一项非常重要的制度设计，具体说就是分步骤、分阶段的实施以“零关税”为特征的贸易自由化便利化制度安排。“零关税”政策的早期收获就是在2025年全岛封关运作之前率先对部分进口商品实施“零关税”，免征进口关税、进口环节增值税和消费税。具体来说包括几方面：一是生产设备。对企业自用的生产设备实施“零关税”负面清单管理。二是交通工具。对岛内用于交通运输、旅游业的船舶、航空器等交通工具，还有游艇，实行“零关税”的正面清单管理。三是原辅料。对于岛内用于生产自用或者是开展“两头在外”模式的出口加工所消耗的原辅料，实施“零关税”正面清单管理。四是居民消费品。对岛内居民消费的进口商品，实行“零关税”正面清单管理，允许岛内居民免税购买。这四类商品是刚才受文副部长提到的，就是“一负三正”的清单管理。除此之外，五是大幅放宽离岛免税购物政策，免税购物的额度从现在的每人每年3万元提升到每人每年10万元，并且在现行38类商品的基础上进一步扩大免税商品种类，同时优化管理，提高旅客购物的便利度。各位如果到海南去旅游，建议大家多带点钱，多多购物消费。六是支持海南发展会展经济，开展国际交流。研究出台对国家级展会的境外展品在展期内进口和销售的免税政策。这是早期收获。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">等到条件成熟，于2025年实施全岛封关运作之后，会在简并税制的基础上，对进口征税商品目录以外的所有进口商品免征进口关税。这就是实现“零关税”的最终制度安排。刚才受文副部长也谈到，国家要制定一个进口征税商品目录，只有在这个目录上的商品仍然需要征收关税，其他大部分不在目录上的进口商品就会实现免征进口关税。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">“零关税”政策的“早期收获”应该说内容是非常丰富的，覆盖了海南经济生活的方方面面。从受益的主体看，包括了生产者，比如企业，也包括了消费者，比如居民和游客。从支持的行业看，既包括了物质生产型的企业，也包括了服务型企业。从商品范围来看，既包括了大型的生产设备和交通工具，又包括了居民日常生活用的消费品。未来我们要制定“一负三正”四张清单，在制定四张清单时会重点支持高新技术、生态环保和有海南特色的产业，不断夯实海南实体经济发展的产业基础。同时，也会根据海南的实际情况来对“一负三正”的清单进行动态调整。总体上要逐步的缩短负面清单，不断扩大正面清单，不断释放“零关税”的政策红利。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">“零关税”的“早期收获”关键是“早”，就是早日落地、早见成效。一方面，能够吸引更多的人流、物流、资金流集聚到海南，为海南自贸港的发展提供经济活动支撑。同时，增强大家对海南发展的信心。另一方面，也是为2025年之后实行全岛封关运作积累经验，做好准备。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们会按照《总体方案》的要求，积极作为，推动自贸港财税政策尽早落地，高质量高标准建设海南自贸港，把海南自贸港打造成新时期改革开放的鲜明旗帜。谢谢大家。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">经济日报记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">《总体方案》提出要建设风险防控体系，有针对性的化解重点领域的风险，请问在推进海南自由贸易港建设过程中有什么风险？海南将如何加强风险防范？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">刘赐贵：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。海南自贸港是在中华民族伟大复兴这个时代，在百年未有之大变局这个时期应运而生的，是中国改革开放鲜明的特征。作为自贸港，海南现在正在拉开序幕，这是一个伟大的事业，是中国内地唯一一个自贸港，谁也没有经历过，但是我们一定会在建设的过程中把你刚才提到的这个问题，风险防控，真正摆在重要的位置。有一句话叫“管得住”才能“放得开”，有一些风险我们现在是可以预料的，刚才邹部长讲的“一负三正”四张清单，我们也做了分析，这里面有什么风险，怎么防控；有一些风险是在发展过程中可能出现的，但是也要有这种意识，未雨绸缪。首先要明确，海南自贸港是中国特色社会主义制度的自贸港，走中国特色社会主义道路是坚定不移的。也可以说，世界上很多的自贸港是资本主义制度，但是社会主义制度下的自贸港就是海南。所以我们要坚持中国共产党的领导，坚持走中国特色社会主义道路，有几个不允许，即不允许危害国家安全、不允许在意识形态方面来破坏社会主义制度、不允许通过货物贸易走私、不允许搞黄赌毒、不允许破坏海南良好的生态环境、不允许在海南自贸港建设过程产生腐败，发生不廉洁的行为。对这些原则性的问题，我们都会制定或者已经制定相应的管控措施。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">一年多来，省委对自贸港的风险防控是高度重视的，做了认真的分析，大体上总结了13类，大大小小的风险点有100多个，这就是我们现在可以想到的。在发展过程中可能还有我们想不到的，不怕！只要我们有坚定的防范化解的意识和决心，我们不断去提升风险防范和化解的能力，提高社会治理能力。大家都很关注海南的房地产，现在到海南买一套房子是有条件的，也就是说你到那里工作一年以上才有条件。全岛进行全域的限购是有个过程的，实际上也是风险防控的一个过程，早在2015年习近平总书记主持了全面深化改革委员会的会议时确定海南进行多规合一的试点，从2015年开始，我们对房地产提出了“两个暂停”，一个是暂停批地，一个是有地的房地产商暂停批建。因为当时房地产商手头上掌握了几十万亩的可以用于建设商品房的土地资源。后来，我们为了落实好“房子是用来住的、不是用来炒的”的理念，因为当时在海南有2万多家房地产商，很多市县是靠房地产卖地建房取得税收、取得固定资产投资，后来我们在2/3的市县取消了固定资产的投资考核和财政收入的考核，实际上也是对各市县房地产产业进行了根本的限制。习近平总书记“4·13”重要讲话以后，也就是2018年6月份，可以说我们是以壮士断腕的决心采取了全域的限购。现在看来，我们经历了阵痛，但是我们对房地产曾经有过的历史上带来的风险，几起大起大落的风险，可以说在自贸港政策发布后不会再出现。这就是我们说的，有的是未雨绸缪，必须防在前，类似这样的事还不少，所以我们在防控风险方面首先建立一套机制。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第二是从立法的角度，海南制定出台并且正在实施反走私条例，对走私有明确的法律条款。因为“零关税”以后，一线放开以后必须二线管住，管住主要还是货物的走私，所以我们从法律方面，省人大常委会制定了相关的条例。刚才我还讲到了反腐败和廉政的风险，项目多了，投资多了，公共的权力大了，如果这方面的风险控制不住，我们就不可能有一个良好的营商环境。在这方面，我们对项目招投标进行全过程的介入监督，由省纪委监委、审计等部门组成，对全省的投资项目进行全覆盖监督。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们建立了社会管理信息化平台，不是嘴上说一说你能够管得住，而是要有硬件。我们现在基本上建立起了一套海上12海里内、岸上1944公里的海岸线上的，再加上内陆的网格化反走私管控。通过卫星海上和岸上的岸基雷达，通过远程的抓拍，可以无缝的对所有岸线实行监控，所以在风险管控方面、反走私方面，我们是有一套管理机制和平台的。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中国日报记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">从国际成熟的自贸港建设经验看，开放的金融政策是一个比较基本的特征。请问未来在海南自由港的建设当中，人民银行在金融政策设计的方面有哪些考虑？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中国人民银行副行长、国家外汇管理局局长 潘功胜：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢。要素的自由流动是高水平自由贸易港的基本特征，其中资金的自由流动是最基本和最核心的要素流动，是贸易和投资自由化和便利化的基础条件。在海南自由贸易港的建设过程中，金融政策的设计与推进遵循三项原则：第一，按照总体方案所确定的，分步骤、分阶段建立自由贸易港政策和制度体系的建设。第二，金融定位于服务跨境贸易投资的自由化和便利化。第三，以不发生系统性金融风险为底线。所以，我们将按照这三项原则来设计和推进支持海南自由贸易港建设的金融政策。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">金融政策的总体框架主要包含四个方面的内容：一是高水平的经常项目和资本项目的开放，便利跨境贸易和投融资的资金流动。二是金融服务业的开放。三是金融改革创新，支持实体经济的发展。四是金融风险防控体系的建设。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第一方面是金融服务于跨境贸易和投融资的自由化便利化。高水平的经常项目开放和资本项目的开放政策，跨境资金流动管理政策是海南自由贸易港建设中最重要，也是最核心的金融政策。在跨境贸易方面，我国的经常项目的资金汇兑已经完全开放，所以在海南自由贸易港货物贸易、服务贸易的资金汇兑要实现高度的便利化，商业银行所进行的真实性审核，全面从事前的审查转向事后的核查。同时，我们完善新的跨境贸易形态，比如离岸贸易、转口贸易的跨境收支的管理政策。建设便利跨国公司全球结算中心运行的政策环境。在跨境直接投资方面，全面落实准入前国民待遇+负面清单的外商投资管理制度，探索适用市场需求新形态的跨境直接投资，在海南自由贸易港内试行QFLP（合格境外有限合伙人）和QDLP（合格的境内有限合伙人）的两项制度。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在跨境融资政策方面，在海南建立新的跨境融资体制，试点合并交易环节的跨境融资政策管理框架，实施统一的宏观审慎管理政策，逐步实现市场主体自主的跨境融资。同时，随着海南自由贸易港建设的推进，探索扩大海南居民个人用汇自主权。考虑到金融开放政策有很强的外溢性，需要以现有的本外币账户和自由贸易账户为基础，建立资金“电子围网”，构建海南金融对外开放的基础平台。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第二方面，服务于海南对外开放的金融服务体系和金融服务能力的建设。率先在海南自由贸易港落实金融服务业的扩大开放政策，丰富海南的金融业态。培育商业银行等金融机构服务于开放型经济的金融能力，支持国际能源、航运、大宗商品等要素交易平台建设。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第三方面，围绕海南建设现代产业体系的重点产业政策取向。强化金融支持和改革创新，推动海南重点发展产业的产业聚集规模和产业竞争力的提升，创新发展贸易金融、消费金融、绿色金融、科技金融。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">第四方面，构筑海南自由贸易港建设的金融风险防控体系。建设跨境资本流动的监测预警和评估体系，宏观审慎管理体系，建设反洗钱、反恐怖融资、反逃税的审查机制。构建适应海南自由贸易港建设的金融监管协调机制。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">下一步，人民银行、国家外汇管理局将会同海南省政府和其他的金融管理部门，按照中央和国务院的统一部署，根据《总体方案》的实施进程，积极做好金融支持海南改革开放的各项工作。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">人民日报记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">受到新冠肺炎疫情的多种因素影响，很多专家对全球化持悲观态度。当前形势下出台海南自由贸易港建设的总体方案，探索建设中国特色的自由贸易港有什么重大的意义？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">林念修：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">刚才我向大家简要介绍了一下海南自由贸易港总体建设方案的主要内容，从这些主要内容来看，我们深深体会到，在海南建设自由贸易港是党中央着眼国内国际两个大局，为推动中国特色社会主义创新发展作出的一项重大战略决策，也是我国新时代改革开放进程中的一件大事，具有重大的现实意义和深远的战略意义。我想可以概括为四个方面：</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">一是建立开放型经济新体制的根本要求。在我国即将开启全面建设社会主义现代化国家新征程之际，在海南建设自由贸易港，借鉴国际先进经验，对标国际高标准经贸规则，形成具有国际竞争力的开放政策和制度安排，引领我国对外开放向纵深推进，可以为全国更高水平的改革开放探索新路径、积累新经验。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">二是打造市场化法治化国际化营商环境的迫切需要。在海南建设自由贸易港，要深入推进商品和要素流动型开放，加快推动规则、规制、管理和标准制度型开放，倒逼政府职能转变，促进市场公平竞争，推进社会治理创新，建立现代法治体系，等等。总之，就是要以高水平开放带动深层次改革，从而营造国际一流的营商环境。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">三是推动高质量发展的战略选择。在海南建设自由贸易港，推动各类要素跨境自由有序安全便捷流动，引进国际先进技术、经营理念和管理经验，打造包括资本、知识、技术、管理、人才在内的全球优质生产要素集聚区，形成具有海南特色的现代产业体系，为全国经济高质量发展提供典型示范。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">四是构建人类命运共同体的实际行动。在海南建设自由贸易港，就是用实际行动向世界表明，中国开放的大门不会关闭，只会越开越大，中国将一以贯之地扎实推动贸易投资自由化便利化，打造全球开放合作的典范，引领经济全球化进程，为我国深度参与全球经济治理和国际经贸规则制定提供重要平台，为构建人类命运共同体提供中国方案、贡献中国智慧。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">中央广播电视总台国广记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们想知道在海南自由贸易港的早期建设当中，洋浦保税港区在哪些方面开展了先行先试？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">海关总署副署长 李国：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢您的提问。海南自由贸易港建设总体方案明确规定，海南自由贸易港的建设采取分步骤、分阶段实施的战略，其中在2025年之前这段时间，《总体方案》确定了18项重点任务。第一项就是明确提出了在洋浦保税港区等具备条件的海关特殊监管区域率先实行一线放开、二线管住的进出口管理制度。这段话的意思很明确的告诉我们，在第一阶段实施的过程中，我们要率先利用洋浦保税港区等具备条件的海关特殊监管区域进行一些先行先试的工作。也就是说，洋浦综合保税港区是自贸港建设的先行区。在这个先行区里面，我们将率先实行一线放开、二线管住的创新管理制度，率先在这里实施有关的早期收获的政策，在这里率先实施我们一系列的有利于贸易便利化自由化的措施，从而为海南自由贸易港的建设进行探索和积累经验。所以从这个意义上来讲，建设好、实施好洋浦保税港区，为全岛封关运行，全面实施自由贸易港的政策将发挥重要的探索和基础性的作用。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">根据中央的部署，海关总署聚焦贸易自由化便利化，坚持管得住才能放得开的要求，在全面总结现有海关特殊监管区域、监管经验的基础上，深入调研论证，研究制定了《中华人民共和国海关对洋浦保税港区监管办法》，并于6月3日正式对外发布。大家看了监管办法会对有关的内容有所了解，这个《办法》七章31条，从先行的角度来看具有几方面的特点：</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">一是试行海南自由贸易港建设总体方案明确的加工增值税收政策，对鼓励类产业企业生产的不含进口料件或者含有进口料件在洋浦保税港区加工增值超过30%的货物，出区进入境内区外销售时免征进口关税，照章征收进口增值税和消费税。这里面有两个非常重要的关键点需要把握：一是对鼓励类的企业，不是所有的。二是这个地方讲的免税是免征关税。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">二是简化一线申报，在风险可控前提下，洋浦保税港区与境外之间进出的货物除需要口岸检疫检验或必须验核许可证件的货物，包括履行国际公约条约协定，或者涉及安全准入管理的货物以外，企业无需向海关申报，海关径予放行，最大限度的放宽一线进入。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">三是突出区内自由，强化区内企业主体责任，实行企业自律管理。一般情况下，区内企业可以依法开展中转集拼、加工制造、交易、研发再制造、检测维修等业务。其经营活动无须办理海关手续，货物在保税港区内不设存储期限。海关取消帐册管理，免于办理海关核销等常规监管手续。同时，海关将充分运用大数据平台，实现风险甄别和智能研判，实施重点的稽核查和查验，实行高效精准的管理。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">四是严格二线管理。加强围网管理，强化卡口的作用，对保税港区内企业及进出保税港区的车辆（包括行政车辆）、货物、物品、人员的，海关依法实施查验监管。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">五是改革统计方法。改变海关原有实时逐票统计的方式，将统计数据采集手段前伸至洋浦保税港区管理机构建立的一体化信息管理服务平台，实现自动汇总统计。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">六是支持发展国际中转集拼业务，对国家禁止进出境货物外，可在符合海关要求的专用作业场所开展国际中转集拼业务，简化中转集拼货物数据报送方式，实施电子仓单传输。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">七是建立协同共管机制。依托洋浦保税港区管理机构建立的一体化信息管理服务平台，搭建统一规范、真实可靠的信息底账库，实现政府部门、口岸监管机构及区内企业之间信息的互联互通、数据可溯、责任可究，建立地方主管、多部门协同监管、企业自管的机制。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">八是不禁止区内居住居民及设立营业性的商业设施。考虑到海南自由贸易港涉及商业消费等业态，对洋浦保税港区内设立的营利性商业设施等不做禁止性的规定，这也是一个巨大的突破，因为现在所有的海关特殊监管区域内都是不允许人员居住和设立营利性场所，这是开了一个口子。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">下一步，海关将积极做好监管服务工作，全力支持洋浦保税港区高水平开放高质量发展，及时总结评估洋浦保税港区先行先试的情况，逐步在海口综合保税区等海南省内符合条件的其他海关特殊监管区域推广实施成熟的方案。谢谢大家。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">大众网海报新闻记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">《总体方案》的正式公布为海南的发展带来了千载难逢的历史机遇，海南将如何利用政策优势进一步改善营商环境？人民群众又将从自贸港的建设中享受到哪些政策红利？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">沈晓明：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">海南的比较优势是三个环境：一是生态环境，二是营商环境，三是政策环境。可以说，营商环境是决定自贸港成败的关键之一。海南营商环境建设的总体目标是世界一流，总体要求是法治化国际化便利化。我们在优化海南营商环境的过程中特别重视两个方面：一是公平、透明和可预期。所谓公平，就是内资和外资一个样，国有和民营一个样，本地企业和外地企业一个样，认识的人和不认识的人一个样。所谓透明和可预期，就是这个事儿能不能做、怎么做，政府要做到标准透明、程序透明、路径透明，这样才能够使得市场主体感觉到过程可预期、结果可预期。二是摆正政府和企业的位置。强化尊重企业、尊重企业家的理念，营商环境好不好，政府说了不算，领导说了不算，甚至评价体系本身说了也不算，企业说了算，企业家说了算。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">刚才您提到一个很有意思的问题，就是人民群众将如何从自贸港建设当中享受到红利。我为什么说这个问题很有意思？因为从字面上看，《总体方案》讲的都是投资、贸易等市场行为，讲的都是政策，好像和老百姓没什么关系。但是你仔细分析，从字里行间当中你仍然能够看到，自贸港建设给老百姓带来的实惠。对海南的老百姓来讲，我们有一个统计，习近平总书记在海南发表“4·13”重要讲话以来大概两年时间，我们的市场主体增加了44.4万，增长了66%。其中企业14.4万户，增长了68%，岗位数增加了40万，也就是说，海南的老百姓享受到的一个很直接的好处，就是就业岗位增加了，14.4万的企业当中有117家是世界五百强企业投资的企业，因此海南老百姓不但就业岗位增加了，而且就业岗位的质量和可选择性也提高了。当然，海南本地老百姓从自贸港建设当中得到的红利还不止这些，还体现在消费方面。刚才邹部长也提到，自贸港《总体方案》将允许本地居民岛内免税购买一部分进口的生活用品，以清单管理的形式来管理。相信自贸港以后，海南本地的老百姓买一些进口生活用品的价格要比自贸港外面低不少。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">自贸港和全国人民有什么关系？首先，我们将在自贸港背景下大幅度优化目前的离岛免税政策，刚才邹部长已经作了非常详细的解释。海南将成为旅游购物的重要目的地，我们希望海南不仅成为全国人民的度假天堂，还能够成为全国人民的购物天堂。其次，海南自贸港将为全国乃至全世界的有识之士提供前所未有的发展机会，这些机会刚才各位领导都已经说了，我不再重复。最近一段时间大家都在议论前浪、后浪的问题，前浪和后浪是一个相对的概念，前浪之前还有前浪，后浪之后还有后浪，但是不管是前浪还是后浪，海南自由贸易港都欢迎大家来闯荡。谢谢大家。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">香港紫荆杂志记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们注意到日前公布的海南自由贸易港建设总体方案涉及贸易、投资金融等诸多方面的内容，可以说政策干货很多。请问领导小组办公室，准备如何抓好《总体方案》各项政策的具体落实和落地？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">林念修：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。大家都知道，为了加强对海南自由贸易港建设的领导，中央决定成立海南全面深化改革开放领导小组，办公室设在发改委，具体负责领导小组的日常工作。为了贯彻好习近平总书记的重要指示精神，落实好《总体方案》，领导小组办公室将进一步发挥好“服务器”和“加速器”这两方面的作用，努力做到服务到位、协调及时、督促有力，我们会会同海南省以及有关部门共同做好各方面的工作。办公室下一步的工作可以简单概括为四个加强：</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">一是加强清单化管理，压实压细每一项工作的责任。《总体方案》已经发布了，接下来我们会把《总体方案》明确的各项工作任务细化分解，制定年度重点工作安排，明确每一项工作的具体要求、责任分工、成果形式和完成时限，建立台账，挂图作战，对每一项工作任务都紧盯不放，一件一件抓推进，一项一项抓落实，确保件件有着落、事事见成效，完成一项销号一项。大家从方案中可以看到，海南自由贸易港的建设有很多工作任务，应该说任务非常艰巨繁重，但是要完成这些任务，挑战也十分巨大。办公室会把每一项任务都列出清单，我们以抓铁有痕、踏石留印的作风，扎扎实实的推动每一项工作任务落实落地，确保不漏一项、不落一件。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">二是我们会加强调查研究，前瞻性提出一些政策建议。在海南建设自由贸易港，是一项全新的探索，在建设过程中难免会出现这样或那样的问题，这种情况下，我们认为开展调查研究工作就显得尤为重要。办公室将会经常性的到海南去开展实地调研，深入一线听取意见，及时发现苗头性倾向性潜在性问题，及时作出分析研判，及时提出对策建议。在这方面我们准备安排一部分专门的人员，一年大部分的时间就在海南岛，实地调查研究，我们不搞蜻蜓点水、不搞花架子，扑下身子来认真的倾听地方党委政府的意见建议，认真的倾听市场主体特别是企业家的诉求和呼声，认真倾听人民群众的所盼所期，掌握第一手材料，为中央提出政策建议。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">三是要加强统筹协调，形成政策合力。大家都知道，在海南建设自由贸易港是一项系统工程，涉及的领域很多，涉及的面也很广，需要协同协调合力来推进。领导小组办公室将进一步提高服务意识，主动与海南省和相关部门做好沟通衔接，特别是要靠前办公，把协调服务放在现场、放在一线，及时把问题解决在前端，打通政策落实的“最后一公里”。为了加快海南自贸港的建设，我们将对海南特事特办，开辟绿色通道，以最快的速度、最高的效率、最优的服务来推进每一项工作任务落实落地。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">四是要加强督促检查，确保政策能够落地见效。办公室将及时跟踪工作落实情况，按季调度重点工作任务的完成情况，认真排查工作落实不到位的原因和问题，逐条逐项提出改进措施。同时，办公室还将建立工作情况通报制度，对重大事项实行挂牌督办，重大情况及时向领导小组报告。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">总而言之，办公室将在领导小组的统一领导下，积极会同有关部门，积极配合海南省，把海南自由贸易港建设的各项工作做好。谢谢大家。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">胡凯红：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">最后一个提问。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">香港经济导报记者：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">我们都知道，海南的环境、空气、水体质量总体保持全国一流水平，请问在建设海南自由贸易港过程中，海南如何处理好经济发展和保护生态环境的关系？谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">刘赐贵：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">谢谢你的提问。在海南自贸港建设中一定会守住生态的底线，海南的生态环境一定会只能更好，不会变差，这一直是我们发展的理念。习总书记在2013年4月份视察海南时强调，青山绿水、碧海蓝天是海南最强的优势和最大的本钱，是一笔既买不来也借不到的宝贵财富，必须倍加珍惜，精心呵护。我们牢记习近平总书记的嘱托，在发展上，不管项目有再多的GDP、再多的税收，只要对环境造成影响和破坏的，我们都坚决不要。这几年我们落实习近平总书记的重要嘱托，采取了一系列的措施，大家比较关心的是大气质量，2017年PM2.5浓度均值每立方米是18微克，2018年是17微克，2019年是16微克，每年下降1个点，但是这1个点很不容易。我们设定的目标，到2030年，海南的PM2.5是个位数，怎么实现这个目标？我们已经采取了一系列措施。第一，我们使用的是清洁能源，到时候全岛将使用清洁能源，成为清洁能源岛。第二，到2030年不再销售燃油汽车。第三，从今年底开始，我们将实现禁塑，就是禁止使用不可降解的塑料制品，包括塑料袋、塑料餐具等等。第四，我们对农村的农民烧柴火，已经建设了2000多公里的LNG的供气管道，2030年也基本上可以实现以气代柴。第五，我们森林覆盖率保持在62%以上，有4400平方公里的热带雨林公园，这是海南的“肺”，一定会保护好的。热带雨林公园已经在建设，国家也批准了。第六，我们继续进行人居环境整治，包括对海岸带的整治、违章建筑的整治、黑臭水体的整治等等，这是我们的发展理念。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在发展区域上，不是项目到处都可以落，我们建立了20个园区，6月3日有11个园区同时挂牌。项目进园区，最大限度把省级审批权限下放到园区，让园区说了算，就是我们讲的极简审批。园区配套最优质的幼儿园和中小学，让创业人才解除后顾之忧。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">在产业选择上，我们不是什么项目都要，主要是聚焦三大领域：旅游业、现代服务业和高新技术产业。高新技术产业我们着重发展大家都熟知的陆海空三个产业。“陆”就是著名的南繁育种、杂交水稻。“海”就是深海研究、深海开发、海洋经济。“空”就是文昌卫星发射和今后文昌卫星的系列产业发展。所以我们在产业上也是有选择的。谢谢。</p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;"><span style="margin: 0px; padding: 0px; list-style: none; font-weight: bold;">胡凯红：</span></p><p style="margin-top: 15px; margin-bottom: 0px; padding: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 12pt; white-space: normal; background-color: rgb(255, 255, 255); text-indent: 2em;">今天的发布会到此结束，谢谢七位负责同志，谢谢各位。</p><p><br/></p><p><br/></p><p style="text-indent: 0em;"><span style="color: rgb(102, 102, 102); font-family: 宋体; font-size: 14px; background-color: rgb(255, 255, 255);">来源： 中国网</span></p> 
+      <div class="share01"> <span style="font-size: 13px;">分享到：</span>
+        <div class="bshare-custom"><a class="bshareDiv" href="../www.bshare.cn/share/index.htm">分享按钮</a><script type="text/javascript" charset="utf-8" src="template/pc/ycnh/js/buttonlite.js"></script></div>
+      </div>
+      <div class="page_up">
+       
+        
+        
+         <!--上一篇-->
+     	 <p> 上一篇： <a href="query_67D16331">国新办海南自由贸易港新闻发布会，你关心的都在这！</a> </p>
+  	      <!--下一篇-->
+     	 <p> 下一篇： <a href="query_C8073C27">人民日报海外版：海南自贸港未来可期</a> </p>
+  	     </div>
+    <!--上下篇——结束-->
+        
+        
+        
+        
+        
+        
+      </div>
+      
+      <!-- 相关阅读 star-->
+      <div class="xg_read" style="margin-bottom: 10px;">
+        <div class="read_title">相关阅读</div>
+        <div class="read_list">
+          <ul>
+            
+           
+           
+                    <li><a target="_blank" href="query_67D16331">国新办海南自由贸易港新闻发布会，你关心的都在这！</a></li>
+               <li><a target="_blank" href="query_CDB5D792">国务院新闻办就《海南自由贸易港建设总体方案》有关情况举行发布</a></li>
+               <li><a target="_blank" href="query_8C83DFFE">辽宁锦州至海南(洋浦)内外贸同船航线完成首航</a></li>
+               <li><a target="_blank" href="query_90D24AC2">海口江东新区迈雅河区域生态修复项目示范区完工</a></li>
+                   
+           
+           
+           
+           
+           
+          </ul>
+        </div>
+      </div>
+      <!-- 相关阅读 end--> 
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="clear"></div>
+<footer>
+  <div class="footer_box">
+    <select name="select1" id="select" class="sel ml0" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----国家部委-----</option>
+      
+     
+     
+          <option value="http://www.gov.cn/guowuyuan/zuzhi.htm">中国人民共和国国务院</option>
+  <option value="http://www.mof.gov.cn/index.htm">中国人民共和国国家财政部</option>
+  <option value="http://www.chinatax.gov.cn/">中国人民共和国国家税务总局</option>
+  <option value="https://www.fmprc.gov.cn/web/">中国人民共和国外交部</option>
+     
+     
+     
+     
+     
+     
+     
+    </select>
+    <select name="select2" id="select" class="sel" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----省直机关-----</option>
+        <option value="http://www.hainan.gov.cn/">海南省人民政府</option>
+  <option value="http://www.sanya.gov.cn/">三亚人民政府</option>
+  <option value="http://www.haikou.gov.cn/">海口人民政府</option>
+    </select>
+    <select name="select3" id="select" class="sel" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----兄弟自贸区-----</option>
+        <option value="http://www.china-tjftz.cn/">天津自贸区</option>
+  <option value="http://www.china-fjftz.gov.cn/">福建自贸区</option>
+  <option value="http://ftz.gd.gov.cn/">广东自贸区</option>
+  <option value="http://www.china-shftz.gov.cn/Homepage.aspx">上海自贸区</option>
+    </select>
+    <select name="select4" id="select" class="sel mr0" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----其他-----</option>
+    
+    
+      <option value="http://www.sanya.gov.cn/sanyasite/yzkjc/yzwkjc.shtml">崖州湾科技城</option>
+  <option value="http://yangpu.hainan.gov.cn/">洋浦经济开发区</option>
+  <option value="http://gxq.haikou.gov.cn/blog">海口国家高新区门户</option>
+    
+    
+    
+    </select>
+  </div>
+ <!-- <div class="gb_footer">
+    <ul>
+      <a href="sitemap.xml">站点地图</a> | <a href="/article/index/aid/428.html">使用帮助</a> | <a href="/article/index/aid/430.html">联系我们</a> | <a href="/article/index/aid/429.html">法律声明</a> | <a href="javascript:SetHome(window.location);">设为首页</a> | <a href="javascript:AddFavorite(window.location,document.title);">收藏本站</a>
+    </ul>
+  </div>-->
+  <div class="gb_bottom" style="text-align:center">
+    <div style="display:inline-block;position:relative;vertical-align:middle"> 
+     
+    </div>
+    <div style="display:inline-block;position:relative;vertical-align:middle">
+     
+      <p>海南自由贸易区招商合作网</p>
+      <p>版权所有：海南自由贸易港招商网 &nbsp;&nbsp;&nbsp;</p>
+    
+    </div>
+    <div style="display:inline-block;position:relative;vertical-align:middle"> 
+      <script id="_jiucuo_" sitecode='3500000069' src='template/pc/ycnh/js/jiucuo.js'></script> 
+    </div>
+  </div>
+</footer>
+<div style="height: 40px; width: 100%; background-color:#1b4586; "></div>
+<script type="text/javascript">
+    function AddFavorite(sURL, sTitle) {
+        sURL = encodeURI(sURL);
+        try{
+
+            window.external.addFavorite(sURL, sTitle);
+
+        }catch(e) {
+            try{
+                window.sidebar.addPanel(sTitle, sURL, "");
+            }catch (e) {
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }
+        }
+    }
+    function SetHome(url){
+        if (document.all) {
+            document.body.style.behavior='url(#default#homepage)';
+            document.body.setHomePage(url);
+        }else{
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+</div>
+</div>
+<script>(function() {var _53code = document.createElement("script");_53code.src = "../tb.53kf.com/code/code/8844c358fe97e90be16b6e6426d1cbf30/1/index.htm";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(_53code, s);})();</script>
+</body>
+</html>

@@ -1,0 +1,667 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1" />
+<title>国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》_海南自由贸易港招商网</title>
+<meta name="description" content="为海南永续发展筑牢绿色生态屏障——国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》　　1月23日，中央全面深化改革委员会第六次会议审议通过《海南热带雨林国家公园体制试点方案》(以下简称《试点方案》)。《试点方案》按照《建立国家公园体制总体" />
+<meta name="keywords" content="" />
+<script> 
+   (function() {
+     if (! 
+     /*@cc_on!@*/
+     0) return;
+     var e = "abbr, article, aside, audio, canvas, datalist, details, dialog, eventsource, figure, footer, header, hgroup, mark, menu, meter, nav, output, progress, section, time, video".split(', ');
+     var i= e.length;
+     while (i--){
+         document.createElement(e[i])
+     } 
+})() 
+</script>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/style.css"/>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/common.css"/>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/iconfont.css" />
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/idangerous.swiper.css" />
+<script type="text/javascript" src="template/pc/ycnh/js/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="template/pc/ycnh/js/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="/template/pc/ycnh/js/main.js"></script> -->
+<script type="text/javascript" src="template/pc/ycnh/js/index_tab.js"></script>
+<script type="text/javascript" src="template/pc/ycnh/js/jquery.superslide.js"></script>
+<script type="text/javascript" src="template/pc/ycnh/js/jzf.js"></script>
+<link rel="stylesheet" type="text/css" href="template/pc/ycnh/css/skin20200115.css"/>
+<script type="text/javascript" src="template/pc/ycnh/js/skin20200115.js"></script>
+<script language="javascript" type="text/javascript">
+var baseUrl='/',controller='article';
+function showtime()
+{
+var today,hour,second,minute,year,month,date;
+var strDate ;
+today=new Date();
+var n_day = today.getDay();
+switch (n_day)
+{
+    case 0:{
+      strDate = "星期日"
+    }break;
+    case 1:{
+      strDate = "星期一"
+    }break;
+    case 2:{
+      strDate ="星期二"
+    }break;
+    case 3:{
+      strDate = "星期三"
+    }break;
+    case 4:{
+      strDate = "星期四"
+    }break;
+    case 5:{
+      strDate = "星期五"
+    }break;
+    case 6:{
+      strDate = "星期六"
+    }break;
+    case 7:{
+      strDate = "星期日"
+    }break;
+}
+year = today.getFullYear();
+month = today.getMonth()+1;
+date = today.getDate();
+hour = today.getHours();
+minute =today.getMinutes();
+second = today.getSeconds();
+document.getElementById('time').innerHTML = year + "年" + month + "月" + date + "日" + strDate +" " + hour + ":" + minute + ":" + second; //显示时间
+setTimeout("showtime();", 1000); //设定函数自动执行时间为 1000 ms(1 s)
+}
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".tc").find(".tz_box").hide(0);
+        $(".tc").hover(
+    function () { $(this).css("z-index", "20").find(".tz_box").css("z-index", "50").stop(true, true).animate({ opacity: "show" }); },
+    function () { $(this).css("z-index", "1").find(".tz_box").css("z-index", "1").stop(true, true).animate({ opacity: "hide" }); }
+    );
+
+        $(".search_text").focus(function () {
+
+            $(this).addClass("focus");
+
+        }).blur(function () {
+
+            $(this).removeClass("focus");
+
+        });
+    });
+</script>
+<script type="text/javascript">
+    var ey_1564127251 = {"ClosePage":0,"get_url":"\/index.php?m=api&c=Ajax&a=get_arcrank&aid=325"};
+</script>
+<script type="text/javascript" src="public/static/common/js/view_arcrank_77708EFD.js"></script>
+</head>
+<body>
+<header>
+  <div class="gb_top">
+    <div class="container gb_main">
+      <div class="left">
+        <div class="time_box"> <span id="time"></span> 
+          <script language="javascript"> showtime();</script> 
+        </div>
+        <p>海南自由贸易港招商网欢迎您!</p>
+      </div>
+      <div class="headerRight">
+        <ul class="gb_top_list">
+          <li> <a href="javascript:ClickObject1();">简体版 <i class="iconfont icon-zhcc_xiangxiajiantou"></i></a>
+            <ul class="xl_erweima">
+              <li style="position: absolute; left: 22px;top: -22px; color:#7084a4 "><i
+
+
+
+                                    class="iconfont icon-zhcc_xiangshangjiantou"></i></li>
+              <li> <a href="javascript:ClickObject2();">繁體版</a> </li>
+            </ul>
+          </li>
+          <li style="margin: 0 20px"> <a>手机门户 <i class="iconfont icon-zhcc_xiangxiajiantou"></i></a>
+            <ul class="xl_erweima">
+              <li style="position: absolute; left: 22px;top: -22px; color:#7084a4 "><i
+
+
+
+                                    class="iconfont icon-zhcc_xiangshangjiantou"></i></li>
+              <li>
+                <p>手机站
+                <ul class="xl_erweima1">
+                  <li><img src="uploads/allimg/20200531/1-20053115401D14.png" alt=""></li>
+                </ul>
+                </p>
+              </li>
+              <li>
+                <p>官方微信
+                <ul class="xl_erweima1">
+                  <li><img src="uploads/allimg/20200530/1-2005301A156420.jpg" alt=""></li>
+                </ul>
+                </p>
+              </li>
+              <li>
+                <p>官方微博
+                <ul class="xl_erweima1">
+                  <li><img src="uploads/allimg/20200530/1-200530163303X7.png" alt=""></li>
+                </ul>
+                </p>
+              </li>
+            </ul>
+            </a> </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="bg_shoot1">
+
+<!--
+
+<div class="dove"> <img src="/template/pc/ycnh/picture/dove.png" > </div>
+
+
+
+<div class="plane"> <img src="/template/pc/ycnh/picture/plane.png" > </div>-->
+
+<div class="bg_shoot2">
+<div class="container">
+<div class="gb_logo_box">
+  <div class="gb_logo" style="float: left;
+
+
+
+    background: url(/uploads/allimg/20200515/1-20051516142HF.png) no-repeat;
+
+
+
+    width: 514px;
+
+
+
+    height: 60px;
+
+
+
+    display: block;"><a href="index.htm"></a></div>
+  <div class="gb_search">     <form method="get" action="query_16ED39ED">
+      <input type="text" class="gb_text_box1"  name="keywords" value="" placeholder="请输入关键字" />
+      <button type="submit" class="gb_btn_ok">搜 索</button>
+      <input type="hidden" name="m" value="home" /><input type="hidden" name="c" value="Search" /><input type="hidden" name="a" value="lists" />    </form>
+     </div>
+</div>
+<nav class="nav">
+<ul class="sy1_ul">
+<div class="sy2_inside">
+<li class="sy1_li" style="width: 160px"><a href="index.htm" class="sy1_tit "><span class="iconfont icon-shouye"
+
+
+
+                                        style="margin-right:4px; "></span>首页</a></li>
+<li class="sy_line"></li>
+<li class="sy1_li navli1"> <a class="sy1_tit " href="query_4EEDFD47" target="_self"><span
+
+
+
+                                        class="iconfont icon-ditu1" style="margin-right:4px; "></span><span class="navspan">走进自由港</span></a>
+  <ul class="sy2_ul">
+    <div class="into_fta">
+      <div class="fta_left"> <img src="uploads/allimg/20200515/1-200515142209164.png">
+        <p>海南省位于中国最南端，简称琼，省会海口市，全省陆地(主要包括海南岛和西沙、中沙、南沙群岛)总面积3.54 万平方公里，海域面积约200万平方公里。海岸线总长1823公里，有大小港湾68个。海南拥有特殊的区位优势，北以琼州海峡与广东省划界，其他三面隔海，与菲律宾、文莱、印度尼西亚和马来西亚为邻，是往来印度洋和太平洋的海上要冲，也是连接东北亚和东南亚的区域中心。目前，海南省是中国最大的经济特区、最大的自由贸易试验区和唯一的中国特色自由贸易港。...<a
+
+
+
+                                                    href="query_4EEDFD47">【更多】</a></p>
+      </div>
+      <div class="fta_right">
+        <ul>
+                    <li><a href="query_7CF41E1B"><img src="uploads/allimg/20200518/1-20051Q01525M5.png">
+            <p>自贸区简介</p>
+            </a></li>
+                    <li><a href="query_0C3F09AA"><img src="uploads/allimg/20200518/1-20051Q02II39.png">
+            <p>海南简介</p>
+            </a></li>
+                    <li><a href="query_573C3920"><img src="uploads/allimg/20200518/1-20051Q02P05Q.png">
+            <p>机构职能与设置</p>
+            </a></li>
+                    <li><a href="query_2E3D7752"><img src="uploads/allimg/20200518/1-20051Q0292T94.png">
+            <p>海南魅力</p>
+            </a></li>
+                  </ul>
+      </div>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli2"> <a class="sy1_tit " href="query_67287652" target="_self"><span class="iconfont icon-xinwen"style="margin-right:4px; "></span><span class="navspan">新闻资讯</span></a>
+  <ul class="sy2_ul">
+    <div class="gb_xl_news">
+      <div class="slideTxtBox">
+        <div class="hd">
+          <ul>
+                        <li><a href="query_861963B9">企业新闻</a></li>
+                        <li><a href="query_0D22324F">行业新闻</a></li>
+                        <li><a href="query_54F714D0">海南新闻</a></li>
+                      </ul>
+        </div>
+        <div class="bd">           <ul class="infoList">
+                        <li><a target="_blank" href="query_23529094"> 【重磅官宣】海南自由贸易港政策干货精选60条！</a><span class="date">06-02</span></li>
+                        <li><a target="_blank" href="query_89214825"> 三部门发文：不再执行20种商品停止减免税规定</a><span class="date">08-14</span></li>
+                        <li><a target="_blank" href="query_BDDBC415"> 海南自贸港船舶登记政策正式落地实施</a><span class="date">06-05</span></li>
+                        <li><a target="_blank" href="query_904BA006"> 重磅！中共中央 国务院印发《海南自由贸易港建设总体方案》</a><span class="date">06-02</span></li>
+                        <li><a target="_blank" href="query_D55EF1E5"> 重点项目马力全开 自贸港建设动能足</a><span class="date">01-11</span></li>
+                        <li><a target="_blank" href="query_4C65C09F"> 海南离岛免税店今年销售额突破300亿元</a><span class="date">12-16</span></li>
+                      </ul>
+                    <ul class="infoList">
+                        <li><a target="_blank" href="query_89A15BDF"> 海南降低药品注册与医疗器械产品注册收费标准 降幅均为30%</a><span class="date">06-05</span></li>
+                        <li><a target="_blank" href="query_45F40C76"> 答记者问 | 制度集成创新、离岛免税、“零关税”清单等全面解</a><span class="date">01-12</span></li>
+                        <li><a target="_blank" href="query_43649109"> 海南自贸港再添一处机场海关</a><span class="date">12-21</span></li>
+                        <li><a target="_blank" href="query_A549256C"> 长征五号遥五运载火箭成功发射探月工程嫦娥五号探测器</a><span class="date">11-24</span></li>
+                        <li><a target="_blank" href="query_021A18BB"> 30条硬核措施！助力海南自贸港金融服务大升级</a><span class="date">09-17</span></li>
+                        <li><a target="_blank" href="query_B23FE538"> 海南分类监管企业信用风险</a><span class="date">08-07</span></li>
+                      </ul>
+                    <ul class="infoList">
+                        <li><a target="_blank" href="query_AA5BE173"> 进口小客车、游艇等交通工具“零关税”，谁能买？怎么买</a><span class="date">12-30</span></li>
+                        <li><a target="_blank" href="query_533B8488"> 最新最全：海南自贸港建设已出台重要政策文件</a><span class="date">11-18</span></li>
+                        <li><a target="_blank" href="query_1E922BC0"> 关于海南自由贸易港原辅料“零关税”政策的通知</a><span class="date">11-13</span></li>
+                        <li><a target="_blank" href="query_9192FC4A"> 中免集团与韩国领先化妆品企业强强联手 深耕海南旅游零售市场</a><span class="date">10-23</span></li>
+                        <li><a target="_blank" href="query_18247797"> 2020中国（海南）国际海洋产业博览会三亚开幕</a><span class="date">08-27</span></li>
+                        <li><a target="_blank" href="query_FF44D4C2"> 海关总署署长倪岳峰：抓紧出台海南自贸港口岸布局方案为全岛封关</a><span class="date">08-12</span></li>
+                      </ul>
+           </div>
+      </div>
+      <script type="text/javascript">jQuery(".slideTxtBox").slide();</script> 
+    </div>
+    <div class="gb_xl_video">
+      <h3><a href="query_67287652" target="_blank">推荐新闻</a></h3>
+      <div class="video_list">
+        <ul>
+                    <li><a target="_blank" href="query_23529094"><span></span><img src="uploads/thumb/576_350/1-2006051GU2R0.png">
+            <p>【重磅官宣】海南自由贸易港政策干货精选60条！</p>
+            </a></li>
+                    <li><a target="_blank" href="query_BDDBC415"><span></span><img src="uploads/thumb/576_350/1-2006051J54aE.png">
+            <p>海南自贸港船舶登记政策正式落地实施</p>
+            </a></li>
+                  </ul>
+      </div>
+      <div class="video_news_list">         <li><a target="_blank" href="query_23529094">【重磅官宣】海南自由贸易港政策干货精选60条！</a><span class="date">（06-02）</span></li>
+                <li><a target="_blank" href="query_904BA006">重磅！中共中央 国务院印发《海南自由贸易港建设总体方案》</a><span class="date">（06-02）</span></li>
+                <li><a target="_blank" href="query_5CEB048D">首个国际会议组织办事机构落户海南</a><span class="date">（05-13）</span></li>
+         </div>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli3" style="display: block"> <a class="sy1_tit " style="display: block"
+
+
+
+                                    href="query_C8715C11" target="_self"><span class="iconfont icon-gongkai" style="margin-right:4px;"></span><span class="navspan">政策法规</span></a>
+  <ul class="sy2_ul" id="xinxigongkai">
+    <div class="info_list hd">
+      <ul>
+                <li><a target="_blank" href="query_21664DA6"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>政策法规</a></li>
+                <li><a target="_blank" href="query_986D1D00"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>扶持政策</a></li>
+                <li><a target="_blank" href="query_876FEC92"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>政策解读</a></li>
+                <li><a target="_blank" href="query_F18C8235"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>方案规划</a></li>
+                <li><a target="_blank" href="query_1E91919F"><i
+
+
+
+                                                        class="iconfont icon-zhengcefagui2"></i>统计数据</a></li>
+              </ul>
+    </div>
+    <div class="info_box bd">
+      <ul>
+        <li>
+          <div class="info_news">
+            <ul>
+                            <li><a target="_blank" href="query_C0B107FC"> 6月7日要览 | 国新办将举行《海南自由贸易港建设总体方案》</a><span class="date">06-09</span></li>
+                            <li><a target="_blank" href="query_45EEBD43"> 海南以“一业一证”改革推动“准入即准营”</a><span class="date">02-02</span></li>
+                            <li><a target="_blank" href="query_BEF7ED9D"> 海南出台十条措施支持洋浦保税港区发展新型离岸国际贸易</a><span class="date">01-26</span></li>
+                            <li><a target="_blank" href="query_33FD1E27"> 我省今年将推广新能源汽车超2.5万辆</a><span class="date">01-25</span></li>
+                            <li><a target="_blank" href="query_3AF6DCE4"> 海南实际使用外资连续三年翻番，特斯拉、哈罗公学等企业名校都来</a><span class="date">01-22</span></li>
+                            <li><a target="_blank" href="query_1936B3AE"> 企业来海南自贸港，“钱”景无限！</a><span class="date">07-24</span></li>
+                            <li><a target="_blank" href="query_A61BC4F9"> 海关总署：《海南自由贸易港口岸布局方案》初步形成</a><span class="date">07-16</span></li>
+                            <li><a target="_blank" href="query_1D1ED46F"> 海口江东新区—优惠政策</a><span class="date">07-10</span></li>
+                            <li><a target="_blank" href="query_8C83DFFE"> 辽宁锦州至海南(洋浦)内外贸同船航线完成首航</a><span class="date">07-08</span></li>
+                          </ul>
+          </div>
+          <div class="s_line"></div>
+          <div class="info_news">
+            <ul>
+                            <li><a target="_blank" href="query_AE8E0112"> 6月17日要览 | 中石化在海南开设能源交易中心</a><span class="date">06-18</span></li>
+                            <li><a target="_blank" href="query_238D1084"> 《海南自由贸易港博鳌乐城国际医疗旅游先行区条例》解读</a><span class="date">06-17</span></li>
+                            <li><a target="_blank" href="query_1EE84C9D"> 三亚中央商务区—优惠政策</a><span class="date">05-19</span></li>
+                            <li><a target="_blank" href="query_69FDA35E"> 海南陵水黎安国际教育创新试验区—优惠政策</a><span class="date">05-19</span></li>
+                            <li><a target="_blank" href="query_9AFAD2D4"> 洋浦将打造数字服务贸易平台</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_0AB5C065"> 环岛旅游公路博鳌一期投入使用</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_60AB5F39"> 海口海关助力海南成品油出口 5月增加出口量7000吨</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_93AC8EAB"> 海南环岛港口航道如何提供航海保障？17条最新举措来了！</a><span class="date">06-11</span></li>
+                            <li><a target="_blank" href="query_09C8FC4C"> 房价不超8000元/㎡海南首个安居型商品房实施方案细则出炉</a><span class="date">06-11</span></li>
+                          </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </ul>
+  <script type="text/javascript">jQuery("#xinxigongkai").slide();</script> 
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli4"> <a class="sy1_tit " href="query_EF5300DC" target="_self"> <span class="iconfont icon-rencaidongtaiyufazhan"  style="margin-right:4px; "></span><span class="navspan">重点产业</span> </a>
+  <ul class="sy2_ul">
+    <div class="xl_fta_box">
+      <div class="info_news s_line1">         <h3><span class="jucuo info_zhidu"><span class="iconfont icon-jiangchengcuoshi"></span>旅游业</span><a
+
+
+
+                                                    target="_blank" href="query_DFEE2177">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_3C405512"> 海南国际旅游岛欢乐节三大展览在海口闭幕</a><span class="date">11-23</span></li>
+                    <li><a target="_blank" href="query_D3A378BC"> 旅游业</a><span class="date">05-11</span></li>
+                  </ul>
+      </div>
+      <div class="info_news pdl30">         <h3> <span class="hongli info_zhidu"> <span class="iconfont icon-jinglirun"></span>现代服务业 </span><a target="_blank" href="query_68CA0F54">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_BF3742F8"> 医疗健康产业</a><span class="date">05-18</span></li>
+                    <li><a target="_blank" href="query_283E12B2"> 热带高效农业</a><span class="date">05-18</span></li>
+                  </ul>
+      </div>
+      <div class="info_news mt26">         <h3> <span class="anli info_zhidu"> <span class="iconfont icon-anli"></span>高新技术产业 </span><a target="_blank" href="query_9641A9DB">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_36698A80"> 海南省高新技术产业示范区</a><span class="date">05-18</span></li>
+                  </ul>
+      </div>
+      <div class="info_news pdl30  s_line2 mt26">         <h3> <span class="tuiguang info_zhidu"> <span class="iconfont icon-tuiguang"></span>其他产业 </span> <a target="_blank" href="query_D82302E5">更多></a></h3>
+                <ul>
+                    <li><a target="_blank" href="query_106498EB"> 国际总部、区域总部和境外机构</a><span class="date">04-14</span></li>
+                    <li><a target="_blank" href="query_1F6BA855"> 油气产业</a><span class="date">04-14</span></li>
+                  </ul>
+      </div>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli5"> <a class="sy1_tit " href="query_116FFC74" target="_self"> <span class="iconfont icon-UI_icon_zhuantitu" style="margin-right:4px;"></span><span class="navspan">专题专栏</span></a>
+  <ul class="sy2_ul">
+    <div class="zt_left">
+      <div class="zt_title "><i></i>专题</div>
+      <ul>
+                <li>
+          <div class="zt_img"><a target="_blank" href="query_B3E33D0B"><img src="uploads/thumb/576_350/1-200615153639504.png"></a></div>
+          <div class="zt_text"> <a target="_blank" href="query_B3E33D0B" class="text_name">海南自由贸易港首次集中签约一批重点项目</a>
+            <p><a href="query_B3E33D0B">【详情】</a></p>
+          </div>
+        </li>
+                <li>
+          <div class="zt_img"><a target="_blank" href="query_64468D2D"><img src="uploads/thumb/576_350/1-20051Q1351I01.jpeg"></a></div>
+          <div class="zt_text"> <a target="_blank" href="query_64468D2D" class="text_name">关于电影等行业税费支持政策的公告</a>
+            <p><a href="query_64468D2D">【详情】</a></p>
+          </div>
+        </li>
+              </ul>
+    </div>
+    <div class="zt_right">
+      <div class="zt_title"><i></i>专栏</div>
+      <ul>
+                <li><a target="_blank" href="query_883D841C"><i></i>
+          <p> 海南自贸港创业大赛 海口赛区选拔赛启动</p>
+          </a></li>
+                <li><a target="_blank" href="query_DD11594C"><i></i>
+          <p> 2019第十届环海南岛国际大帆船赛圆满落幕</p>
+          </a></li>
+              </ul>
+    </div>
+  </ul>
+</li>
+<li class="sy_line"></li>
+<li class="sy1_li navli6" >
+<a class="sy1_tit " href="query_AA8CA1A9" target="_self"> <span class="fsz22 iconfont icon-zhitongcheguanjianci" style="margin-right:4px; "></span><span class="navspan">园区载体</span> </a>
+<ul class="sy2_ul">
+  <div class="gb_xl_news">
+  <div class="slideTxtBox">
+  <div class="bd">
+  <ul class="infoList">
+        <li><a target="_blank" href="query_D63C738E"> 博鳌乐城国际医疗旅游先行示范区</a><span class="date">05-18</span></li>
+        <li><a target="_blank" href="query_09F2151B"> 洋浦经济开发区</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_7A932F8A"> 文昌国际航天城</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_ED9A001C"> 海南陵水黎安国际教育试验区</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_64A150B6"> 三亚中央商务区</a><span class="date">05-13</span></li>
+        <li><a target="_blank" href="query_139C6140"> 三亚崖州湾科技城</a><span class="date">05-13</span></li>
+        </div>
+    </div>
+    </div>
+    <div class="gb_xl_video">
+      <div class="fw_list"> <img src="" /> </div>
+    </div>
+  </ul>
+  </li>
+  <li class="sy_line"></li>
+    </div>
+</ul>
+</nav>
+
+<div class="main">
+  <div class="address">
+    <div class="add_box">您所在的位置： <a href='index.htm' class=''>首页</a> &gt; <a href='index_C8715C11.php' class=''>政策法规</a> &gt; <a href='index_876FEC92.php'>政策解读</a></div>
+  </div>
+  <div class="left">
+    <div id="nav">
+      <h1>政策法规</h1>
+      <ul>
+                <li><a href="query_21664DA6" title="政策法规">政策法规</a></li>
+                <li><a href="query_986D1D00" title="扶持政策">扶持政策</a></li>
+                <li><a href="query_876FEC92" title="政策解读">政策解读</a></li>
+                <li><a href="query_F18C8235" title="方案规划">方案规划</a></li>
+                <li><a href="query_1E91919F" title="统计数据">统计数据</a></li>
+              </ul>
+    </div>
+    <div class="hot_list" id="smartFloat_tags">
+      <h3 class="title_name">热门文章</h3>
+      <ul>
+                <li><span class="number front">1</span><a title="企业来海南自贸港，“钱”景无限！" style="width:240px;" href="query_1936B3AE">企业来海南自贸港，“钱”景无限！</a></li>
+                <li><span class="number front">2</span><a title="省人大常委会相关负责人就《海南省人大常委会关于推进中国(海南" style="width:240px;" href="query_CF21AF85">省人大常委会相关负责人就《海南省人大常委会关于推进中国(海南</a></li>
+                <li><span class="number front">3</span><a title="解读《中共中央国务院关于支持海南全面深化改革开放的指导意见》" style="width:240px;" href="query_995AE9CB">解读《中共中央国务院关于支持海南全面深化改革开放的指导意见》</a></li>
+                <li><span class="number ">4</span><a title="透视《中共中央国务院关于支持海南全面深化改革开放的指导意见》" style="width:240px;" href="query_28541959">透视《中共中央国务院关于支持海南全面深化改革开放的指导意见》</a></li>
+                <li><span class="number ">5</span><a title="国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》" style="width:240px;" href="query_12523A85">国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》</a></li>
+                <li><span class="number ">6</span><a title="政策解读 ∣ 海南企业可以为国家做石油战略储备了！" style="width:240px;" href="query_305BE659">政策解读 ∣ 海南企业可以为国家做石油战略储备了！</a></li>
+                <li><span class="number ">7</span><a title="国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》" style="width:240px;" href="query_7F62D6C7">国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》</a></li>
+                <li><span class="number ">8</span><a title="海关总署：《海南自由贸易港口岸布局方案》初步形成" style="width:240px;" href="query_A61BC4F9">海关总署：《海南自由贸易港口岸布局方案》初步形成</a></li>
+                <li><span class="number ">9</span><a title="省规划委相关负责人解读《关于加强重要规划控制区规划管理的决定" style="width:240px;" href="query_B8A30ECA">省规划委相关负责人解读《关于加强重要规划控制区规划管理的决定</a></li>
+                <li><span class="number ">10</span><a title="43条超常规举措确保完成全年经济目标政策解读" style="width:240px;" href="query_0669877D">43条超常规举措确保完成全年经济目标政策解读</a></li>
+              </ul>
+    </div>
+  </div>
+  <div class="right">
+    <div class="right_title"><span>政策解读 </span></div>
+    <div class="content_box">
+      <h1>国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》</h1>  
+      <div class="wd_info"><span>2019-01-25 23:14:32</span> 作者：<span>小编</span>  阅读次数：<span class="blue"><script type="text/javascript">
+    function tag_arcclick(aid)
+    {
+        // 步骤一:创建异步对象
+        var ajax = new XMLHttpRequest();
+        // 步骤二:设置请求的url参数,参数一是请求的类型,参数二是请求的url,可以带参数,动态的传递参数starName到服务端
+        ajax.open("get", "/index.php?m=api&c=Ajax&a=arcclick&aid="+aid+"&type=view", true);
+        // 给头部添加ajax信息
+        ajax.setRequestHeader("X-Requested-With","XMLHttpRequest");
+        // 如果需要像 HTML 表单那样 POST 数据，请使用 setRequestHeader() 来添加 HTTP 头。然后在 send() 方法中规定您希望发送的数据：
+        ajax.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+        // 步骤三:发送请求
+        ajax.send('_ajax=1');
+        // 步骤四:注册事件 onreadystatechange 状态改变就会调用
+        ajax.onreadystatechange = function () {
+            // 步骤五 如果能够进到这个判断 说明 数据 完美的回来了,并且请求的页面是存在的
+            if (ajax.readyState==4 && ajax.status==200) {
+        　　　　document.getElementById("eyou_arcclick_"+aid).innerHTML = ajax.responseText;
+          　}
+        } 
+    }
+</script><i id="eyou_arcclick_325" class="eyou_arcclick" style="font-style:normal"></i> 
+<script type="text/javascript">tag_arcclick(325);</script></span>次</div>
+      <div class="wd_jj">摘要：<span>为海南永续发展筑牢绿色生态屏障——国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》　　1月23日，中央全面深化改革委员会第六次会议审议通过《海南热带雨林国家公园体制试点方案》(以下简称《试...</span></div>
+      <div class="news_vdcon">
+        
+        
+         <p style="text-indent: 0em; text-align: center;">为海南永续发展筑牢绿色生态屏障</p><p style="text-indent: 0em; text-align: center;">——国家公园管理局负责人解读《海南热带雨林国家公园体制试点方案》</p><p style="text-indent: 0em;">　　1月23日，中央全面深化改革委员会第六次会议审议通过《海南热带雨林国家公园体制试点方案》(以下简称《试点方案》)。《试点方案》按照《建立国家公园体制总体方案》要求，以热带雨林生态系统原真性和完整性保护为基础，以热带雨林资源的整体保护、系统修复和综合治理为重点，以实现国家所有、全民共享、世代传承为目标，通过理顺管理体制，创新运营机制，健全法治保障，强化监督管理，推进热带雨林科学保护和合理利用。围绕《试点方案》的背景、意义、主要内容等，光明日报记者采访了国家林业和草原局(国家公园管理局)有关负责人。</p><p style="text-indent: 0em;">　　问：《试点方案》是在什么背景下出台的，有何重要意义?</p><p style="text-indent: 0em;">　　答：党中央、国务院高度重视海南国家生态文明试验区建设。《中共中央国务院关于支持海南全面深化改革开放的指导意见》明确提出“研究设立热带雨林等国家公园，构建以国家公园为主体的自然保护地体系，按照自然生态系统整体性、系统性及其内在规律实行整体保护、系统修复、综合治理。”为此，国家林业和草原局(国家公园管理局)与海南省着手推动海南热带雨林国家公园建设，着力构建归属清晰、权责明确、监管有效的自然保护地体系。这是继三江源、东北虎豹、大熊猫、祁连山国家公园体制试点以后，中央全面深化改革委员会通过的又一个国家公园体制试点方案，是我国在建立以国家公园为主体的自然保护地体系建设方面取得的新进展。</p><p style="text-indent: 0em;">　　建设海南热带雨林国家公园，具有以下重要意义：</p><p style="text-indent: 0em;">　　一是筑牢海南绿色生态屏障的关键举措。我国热带雨林资源极其稀缺，主要分布在海南、云南南部、台湾南部、广西南部及西藏东南河谷地带。海南热带雨林是我国分布最集中、保存最完好的岛屿型热带雨林，资源极其宝贵。建设海南热带雨林国家公园，对筑牢海南绿色生态屏障极其关键、十分必要。</p><p style="text-indent: 0em;">　　二是保护热带雨林生态系统原真性和完整性的有效途径。海南拥有独特的自然地理景观和完整的植被垂直带谱。自20世纪60年代海南省第一个自然保护区——尖峰岭自然保护区建立以来，相继建立的各类自然保护地在一定程度上保护和恢复了热带雨林生态系统。但是由于历史原因，当地热带雨林物种特色与群落特征受到威胁，整体保护和系统修复迫在眉睫。建设海南热带雨林国家公园，集中连片整合现有自然保护地，创新保护管理体制，实现统一规范高效管理，实施整体保护、系统修复和综合治理，能够更加有效保护热带雨林生态系统的原真性和完整性，从而实现珍稀自然资源的世代传承。</p><p style="text-indent: 0em;">　　三是拯救我国热带珍稀濒危野生动植物资源的迫切需要。海南独特的地理位置和地质地貌类型，孕育多种热带特有、中国特有、海南特有的珍稀动植物种类，是生物多样性和遗传资源的宝库。建设海南热带雨林国家公园，整合多个单一自然保护地，修复热带雨林生态系统，建设生态廊道，有利于保护生物多样性、抢救濒危物种、维持区域生态平衡。</p><p style="text-indent: 0em;">　　四是探索将“绿水青山”转化为“金山银山”路径的具体实践。海南热带雨林集中分布的区域是海南岛主要江河源头和重要水源涵养区，是海南生态安全的制高点和平衡点，也是黎、苗等少数民族传统聚居地。建设海南热带雨林国家公园，有利于正确把握生态保护与经济发展的关系，增强生态系统服务功能，健全生态保护补偿制度，促进当地脱贫，走出一条生态优先绿色发展的新路子。</p><p style="text-indent: 0em;">　　问：海南热带雨林国家公园体制试点要达到什么目标?</p><p style="text-indent: 0em;">　　答：到2020年结束试点，正式设立海南热带雨林国家公园。主要实现以下两个目标：</p><p style="text-indent: 0em;">　　一是建设生态文明体制创新的探索区域。建立统一规范高效的海南热带雨林国家公园管理体制，彻底解决交叉重叠、多头管理的碎片化问题，构建归属清晰、权责明确、监管有效的以国家公园为主体的自然保护地体系，为当代人提供优质生态产品，为子孙后代留下自然遗产，为海南永续发展筑牢绿色生态屏障。</p><p style="text-indent: 0em;">　　二是建设中国乃至全球热带雨林生态系统关键保护地。建成大尺度多层次的生态保护体系，热带雨林生态系统的原真性、完整性和多样性得到有效保护，受损的自然景观和生态系统得以修复，科研监测体系不断完善，国家公园的教育、游憩功能得以发挥。此外，热带物种数量保持稳定，濒危物种的生境条件明显改善，热带岛屿水源涵养功能巩固提升。</p><p style="text-indent: 0em;">　　问：海南热带雨林国家公园范围如何划定?体现了哪些制度创新?</p><p style="text-indent: 0em;">　　答：经反复论证，海南热带雨林国家公园体制试点区位于海南岛中部山区，东起吊罗山国家森林公园，西至尖峰岭国家级自然保护区，南自保亭县毛感乡，北至黎母山省级自然保护区，总面积4400余平方公里，约占海南岛陆域面积的七分之一。范围涉及9个市县，包括五指山、鹦哥岭、尖峰岭、霸王岭、吊罗山等5个国家级自然保护区和佳西等3个省级自然保护区，黎母山等4个国家森林公园、阿陀岭等6个省级森林公园及相关的国有林场。</p><p style="text-indent: 0em;">　　海南热带雨林国家公园体制试点，着力在保护管理体制机制、自然生态整体保护和系统修复制度、社区协调发展制度、资金保障制度等方面有所创新。具体表现在：</p><p style="text-indent: 0em;">　　研究组建统一管理机构。海南热带雨林国家公园管理机构履行国家公园范围内的生态保护、自然资源资产管理、特许经营管理、社会参与管理、宣传推介等职责，负责协调与当地政府及周边社区的关系。</p><p style="text-indent: 0em;">　　统一行使所有权。按照自然资源统一确权登记办法，海南热带雨林国家公园作为独立自然资源登记单元，依法对区域内水流、森林、山岭、荒地、滩涂等所有自然生态空间统一进行确权登记。</p><p style="text-indent: 0em;">　　构建协同管理机制。合理划分中央和地方事权，构建主体明确、责任清晰、相互配合的国家公园中央和地方协同管理机制。国家林业和草原局(国家公园管理局)加大指导和支持力度，地方政府根据需要配合国家公园管理机构做好生态保护工作，国家公园所在地方政府行使辖区(包括国家公园)经济社会发展综合协调、公共服务、社会管理、市场监管等职责。</p><p style="text-indent: 0em;">　　建立健全资源管控制度。建立自然资源资产产权管理制度，科学评估资源、资产的价值，实行自然资源有偿使用制度。将国家公园划定的核心保护区纳入生态保护红线和海南省国土空间规划，实施统一管控。</p><p style="text-indent: 0em;">　　建立健全监测监督机制。加强国家公园空间用途管制，强化对国家公园生态保护等工作情况的监管。同时，建立健全社会监督机制，形成举报制度和权益保护机制，以保障社会公众的知情权、监督权。(记者 张蕾 王晓樱)</p><p><br/></p><p><br/></p><p style="text-indent: 0em;">来源：海南自由贸易港</p> 
+      <div class="share01"> <span style="font-size: 13px;">分享到：</span>
+        <div class="bshare-custom"><a class="bshareDiv" href="../www.bshare.cn/share/index.htm">分享按钮</a><script type="text/javascript" charset="utf-8" src="template/pc/ycnh/js/buttonlite.js"></script></div>
+      </div>
+      <div class="page_up">
+       
+        
+        
+         <!--上一篇-->
+     	 <p> 上一篇： <a href="query_305BE659">政策解读 ∣ 海南企业可以为国家做石油战略储备了！</a> </p>
+  	      <!--下一篇-->
+     	 <p> 下一篇： <a href="query_995AE9CB">解读《中共中央国务院关于支持海南全面深化改革开放的指导意见》</a> </p>
+  	     </div>
+    <!--上下篇——结束-->
+        
+        
+        
+        
+        
+        
+      </div>
+      
+      <!-- 相关阅读 star-->
+      <div class="xg_read" style="margin-bottom: 10px;">
+        <div class="read_title">相关阅读</div>
+        <div class="read_list">
+          <ul>
+            
+           
+           
+                    <li><a target="_blank" href="query_A61BC4F9">海关总署：《海南自由贸易港口岸布局方案》初步形成</a></li>
+               <li><a target="_blank" href="query_B8A30ECA">省规划委相关负责人解读《关于加强重要规划控制区规划管理的决定</a></li>
+               <li><a target="_blank" href="query_5F6A9A16">解读《交通运输部贯彻落实〈中共中央国务院关于支持海南全面深化</a></li>
+               <li><a target="_blank" href="query_1936B3AE">企业来海南自贸港，“钱”景无限！</a></li>
+                   
+           
+           
+           
+           
+           
+          </ul>
+        </div>
+      </div>
+      <!-- 相关阅读 end--> 
+      
+    </div>
+  </div>
+</div>
+</div>
+<div class="clear"></div>
+<footer>
+  <div class="footer_box">
+    <select name="select1" id="select" class="sel ml0" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----国家部委-----</option>
+      
+     
+     
+          <option value="http://www.gov.cn/guowuyuan/zuzhi.htm">中国人民共和国国务院</option>
+  <option value="http://www.mof.gov.cn/index.htm">中国人民共和国国家财政部</option>
+  <option value="http://www.chinatax.gov.cn/">中国人民共和国国家税务总局</option>
+  <option value="https://www.fmprc.gov.cn/web/">中国人民共和国外交部</option>
+     
+     
+     
+     
+     
+     
+     
+    </select>
+    <select name="select2" id="select" class="sel" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----省直机关-----</option>
+        <option value="http://www.hainan.gov.cn/">海南省人民政府</option>
+  <option value="http://www.sanya.gov.cn/">三亚人民政府</option>
+  <option value="http://www.haikou.gov.cn/">海口人民政府</option>
+    </select>
+    <select name="select3" id="select" class="sel" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----兄弟自贸区-----</option>
+        <option value="http://www.china-tjftz.cn/">天津自贸区</option>
+  <option value="http://www.china-fjftz.gov.cn/">福建自贸区</option>
+  <option value="http://ftz.gd.gov.cn/">广东自贸区</option>
+  <option value="http://www.china-shftz.gov.cn/Homepage.aspx">上海自贸区</option>
+    </select>
+    <select name="select4" id="select" class="sel mr0" onchange="if (this.options[this.selectedIndex].value!=''){window.open(this.options[this.selectedIndex].value)};">
+      <option>-----其他-----</option>
+    
+    
+      <option value="http://www.sanya.gov.cn/sanyasite/yzkjc/yzwkjc.shtml">崖州湾科技城</option>
+  <option value="http://yangpu.hainan.gov.cn/">洋浦经济开发区</option>
+  <option value="http://gxq.haikou.gov.cn/blog">海口国家高新区门户</option>
+    
+    
+    
+    </select>
+  </div>
+ <!-- <div class="gb_footer">
+    <ul>
+      <a href="sitemap.xml">站点地图</a> | <a href="/article/index/aid/428.html">使用帮助</a> | <a href="/article/index/aid/430.html">联系我们</a> | <a href="/article/index/aid/429.html">法律声明</a> | <a href="javascript:SetHome(window.location);">设为首页</a> | <a href="javascript:AddFavorite(window.location,document.title);">收藏本站</a>
+    </ul>
+  </div>-->
+  <div class="gb_bottom" style="text-align:center">
+    <div style="display:inline-block;position:relative;vertical-align:middle"> 
+     
+    </div>
+    <div style="display:inline-block;position:relative;vertical-align:middle">
+     
+      <p>海南自由贸易区招商合作网</p>
+      <p>版权所有：海南自由贸易港招商网 &nbsp;&nbsp;&nbsp;</p>
+    
+    </div>
+    <div style="display:inline-block;position:relative;vertical-align:middle"> 
+      <script id="_jiucuo_" sitecode='3500000069' src='template/pc/ycnh/js/jiucuo.js'></script> 
+    </div>
+  </div>
+</footer>
+<div style="height: 40px; width: 100%; background-color:#1b4586; "></div>
+<script type="text/javascript">
+    function AddFavorite(sURL, sTitle) {
+        sURL = encodeURI(sURL);
+        try{
+
+            window.external.addFavorite(sURL, sTitle);
+
+        }catch(e) {
+            try{
+                window.sidebar.addPanel(sTitle, sURL, "");
+            }catch (e) {
+                alert("加入收藏失败，请使用Ctrl+D进行添加,或手动在浏览器里进行设置.");
+            }
+        }
+    }
+    function SetHome(url){
+        if (document.all) {
+            document.body.style.behavior='url(#default#homepage)';
+            document.body.setHomePage(url);
+        }else{
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script>
+</div>
+</div>
+<script>(function() {var _53code = document.createElement("script");_53code.src = "../tb.53kf.com/code/code/8844c358fe97e90be16b6e6426d1cbf30/1/index.htm";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(_53code, s);})();</script>
+</body>
+</html>
